@@ -1,0 +1,2027 @@
+﻿id,Oficio,Niveles,Recetas,Recursos,Cantidad
+1,Sastre,0,Depedador x44,Cola de miaufián ,132
+2,Sastre,0,Depedador x44,Fuego Interno ,132
+3,Sastre,8,Sombrero de pío verde x38,Pluma de pío verde ,114
+4,Sastre,8,Sombrero de pío verde x38,Reliquia de Incarnam ,114
+5,Sastre,19,Bob de campesino x14,Lengua de espanterrador ,42
+6,Sastre,19,Bob de campesino x14,Pétalo mágico de Girasol Hambriento ,28
+7,Sastre,27,Larvabolso x21,Piel de larva verde ,105
+8,Sastre,27,Larvabolso x21,Piel de larva azul ,105
+9,Sastre,27,Larvabolso x21,Hilo de seda ,42
+10,Sastre,38,Capa cerilla x3,Pétalo de rosa oscura ,15
+11,Sastre,38,Capa cerilla x3,Antenas de vilinsekto ,15
+12,Sastre,38,Capa cerilla x3,Pata de Blatarata ,9
+13,Sastre,40,Escafandra Gina x26,Pinza de cangrejo ,260
+14,Sastre,40,Escafandra Gina x26,Pinza de crustoral ,260
+15,Sastre,40,Escafandra Gina x26,Pétalo kuraçao ,52
+16,Sastre,40,Escafandra Gina x26,Bulbo de kuraçao ,260
+17,Sastre,40,Escafandra Gina x26,Coral magistral ,26
+18,Sastre,53,La Harapa x2,Pétalo kuraçao ,2
+19,Sastre,53,La Harapa x2,Espejo dopeul ,12
+20,Sastre,53,La Harapa x2,Papel carbón ,14
+21,Sastre,53,La Harapa x2,Frasco de Gelatina Real de Limón ,6
+22,Sastre,55,Kanipío x7,Pelos de barba de awelito wabbit ,49
+23,Sastre,55,Kanipío x7,Piel de Shin Larva ,14
+24,Sastre,55,Kanipío x7,Pétalo malibut ,7
+25,Sastre,55,Kanipío x7,Tatuaje de chico malo ,49
+26,Sastre,60,Bolso-Zanahowia x3,Rama de pekewabbit hambriento ,18
+27,Sastre,60,Bolso-Zanahowia x3,Pelos de barba de awelito wabbit ,18
+28,Sastre,60,Bolso-Zanahowia x3,Zanahowia ,12
+29,Sastre,60,Bolso-Zanahowia x3,Paño del Wey Wabbit ,3
+30,Sastre,63,Dragosombrero carbonoso x17,Huevo de dragohuevo carbonoso ,34
+31,Sastre,63,Dragosombrero carbonoso x17,Cáscara de dragohuevo carbonoso ,136
+32,Sastre,63,Dragosombrero carbonoso x17,Piel de dragohuevo alabastrado ,51
+33,Sastre,63,Dragosombrero carbonoso x17,Pelo de Dragenerys ,17
+34,Sastre,63,Dragosombrero carbonoso x17,Cáscara de dragohuevo calizo ,102
+35,Sastre,73,Korko Kusko x1,Diente de dragopavo ,10
+36,Sastre,73,Korko Kusko x1,Concentrado de fajina ,1
+37,Sastre,73,Korko Kusko x1,Morros de mata ,7
+38,Sastre,73,Korko Kusko x1,Piedra del Crujidor Legendario ,2
+39,Sastre,73,Korko Kusko x1,Pólvora ,1
+40,Sastre,74,Sombrero de barbrusa x1,Pólvora ,1
+41,Sastre,74,Sombrero de barbrusa x1,Pico de dragopavo dorado ,7
+42,Sastre,74,Sombrero de barbrusa x1,Casi-barba de barbrusa ,1
+43,Sastre,74,Sombrero de barbrusa x1,Mega piedra del Crujidor Legendario ,1
+44,Sastre,74,Sombrero de barbrusa x1,Concentrado de fajina ,1
+45,Sastre,75,Sombrero Tierradala x2,Casi-barba de barbrusa ,6
+46,Sastre,75,Sombrero Tierradala x2,Concentrado de fajina ,2
+47,Sastre,75,Sombrero Tierradala x2,Ojo de yenaparda ,16
+48,Sastre,75,Sombrero Tierradala x2,Morros de mata ,18
+49,Sastre,75,Sombrero Tierradala x2,Coraza de Mantícoro ,4
+50,Sastre,77,Octovius x2,Seta ,16
+51,Sastre,77,Octovius x2,Llama espectral ,20
+52,Sastre,77,Octovius x2,Cráneo de jefe cocodrail ,2
+53,Sastre,77,Octovius x2,Tejido de Gurlo el Terrible ,2
+54,Sastre,77,Octovius x2,Kralamar ,1000
+55,Sastre,79,Corona del rey Gelax x16,Frasco de Gelatina Real de Aciano ,32
+56,Sastre,79,Corona del rey Gelax x16,Frasco de Gelatina Real de Fresa ,32
+57,Sastre,79,Corona del rey Gelax x16,Frasco de Gelatina Real de Limón ,32
+58,Sastre,79,Corona del rey Gelax x16,Frasco de Gelatina Real de Menta ,32
+59,Sastre,79,Corona del rey Gelax x16,Gelatina de limón ,160
+60,Sastre,89,Sombrero de jalatranki x4,Lana de jalatranki ,24
+61,Sastre,89,Sombrero de jalatranki x4,Cuerno de jalatranki ,12
+62,Sastre,89,Sombrero de jalatranki x4,Trenza de Trankitronko ,12
+63,Sastre,89,Sombrero de jalatranki x4,Concentrado de fajina ,8
+64,Sastre,89,Sombrero de jalatranki x4,Sesos de jalató de las cuevas ,8
+65,Sastre,89,Sombrero de jalatranki x4,Coraza de Mantícoro ,12
+66,Sastre,92,Capa Fuegodala x4,Ojo de cangrabino ,12
+67,Sastre,92,Capa Fuegodala x4,Gafas de pekewobot ,12
+68,Sastre,92,Capa Fuegodala x4,Cabellera de Maxilubo ,12
+69,Sastre,92,Capa Fuegodala x4,Concentrado de bosquecillo ,4
+70,Sastre,92,Capa Fuegodala x4,Pelo de wobot hambriento ,12
+71,Sastre,92,Capa Fuegodala x4,Bordado de Malefíscof ,8
+72,Sastre,96,Casco de Dragocerdo x5,Marfil ,25
+73,Sastre,96,Casco de Dragocerdo x5,Cuero de cerdo serrano ,70
+74,Sastre,96,Casco de Dragocerdo x5,Piel de cerdo de Farle ,70
+75,Sastre,96,Casco de Dragocerdo x5,Pelo de Dragocerdo ,5
+76,Sastre,96,Casco de Dragocerdo x5,Glóbulo de Lasoberaña ,5
+77,Sastre,96,Casco de Dragocerdo x5,Concentrado de bosquecillo ,5
+78,Sastre,100,Mazorrasombrero x6,Kola ,30
+79,Sastre,100,Mazorrasombrero x6,Hoja de mazorral ,78
+80,Sastre,100,Mazorrasombrero x6,Diente de Karnozor ,18
+81,Sastre,100,Mazorrasombrero x6,Pluma de dodoncella ,24
+82,Sastre,100,Mazorrasombrero x6,Piel de Moon x24Turmalina ,18
+83,Sastre,105,Capa de la Rata Negra x1,Oreja de rataplastada ,16
+84,Sastre,105,Capa de la Rata Negra x1,Rata oxidada Pipa Woody ,14
+85,Sastre,105,Capa de la Rata Negra x1,Pelo de rata brakmariana ,6
+86,Sastre,105,Capa de la Rata Negra x1,Turmalina ,3
+87,Sastre,105,Capa de la Rata Negra x1,Plumón del Maestro Cuerbok ,3
+88,Sastre,105,Capa de la Rata Negra x1,Concentrado de bosquecillo ,2
+89,Sastre,105,Capa de la Rata Negra x1,Crines de Rata Negra ,1
+90,Sastre,106,Sombrero de Gaddi x5,Oreja de buldogro ,25
+91,Sastre,106,Sombrero de Gaddi x5,Concentrado de bosquecillo ,10
+92,Sastre,106,Sombrero de Gaddi x5,Yema de Abráknido Ancestral ,5
+93,Sastre,106,Sombrero de Gaddi x5,Oreja de rinoferoz ,85
+94,Sastre,106,Sombrero de Gaddi x5,Calcetín agujereado de Dramak ,15
+95,Sastre,106,Sombrero de Gaddi x5,Piel de minoskito ,80
+96,Sastre,106,Sombrero de Gaddi x5,Pelo de rata bontariana ,30
+97,Sastre,110,Sombrero de Bimd'Ulo x3,Néctar del oriente ,18
+98,Sastre,110,Sombrero de Bimd'Ulo x3,Trenza de Trankitronko ,9
+99,Sastre,110,Sombrero de Bimd'Ulo x3,Pelos de barba de warko violeta ,6
+100,Sastre,110,Sombrero de Bimd'Ulo x3,Cofia destrozada de drakoalak ,9
+101,Sastre,110,Sombrero de Bimd'Ulo x3,Pelo de zorrowapo ,48
+102,Sastre,110,Sombrero de Bimd'Ulo x3,Turmalina ,9
+103,Sastre,110,Sombrero de Bimd'Ulo x3,Bordado de Malefíscof ,9
+104,Sastre,113,Falena x5,Ala de moskito ,385
+105,Sastre,113,Falena x5,Pluma de Tofu Real ,5
+106,Sastre,113,Falena x5,Concentrado de espesura ,5
+107,Sastre,113,Falena x5,Kuakuá Baño Nagate ,15
+108,Sastre,113,Falena x5,Tela de siegalak ,20
+109,Sastre,113,Falena x5,Néctar del oriente ,5
+110,Sastre,113,Falena x5,Piel de minoskito ,90
+111,Sastre,117,Cabellera de Piojoporojo x6,Pelleja de garrapocha ,114
+112,Sastre,117,Cabellera de Piojoporojo x6,Púa de pulgrosa ,24
+113,Sastre,117,Cabellera de Piojoporojo x6,Glándula de Piojoporojo ,24
+114,Sastre,117,Cabellera de Piojoporojo x6,Plumón del Maestro Cuerbok ,24
+115,Sastre,117,Cabellera de Piojoporojo x6,Galleta de la fortuna ,30
+116,Sastre,117,Cabellera de Piojoporojo x6,Turmalina ,18
+117,Sastre,117,Cabellera de Piojoporojo x6,Trama dimensional ,18
+118,Sastre,122,Holuna x6,Trama dimensional ,18
+119,Sastre,122,Holuna x6,Cuero de jabajocero ,114
+120,Sastre,122,Holuna x6,Kriptonita ,12
+121,Sastre,122,Holuna x6,Pluma de cuerbok domesticado ,120
+122,Sastre,122,Holuna x6,Bractea de la marguerrita ,126
+123,Sastre,122,Holuna x6,Sépalo de nierba ,192
+124,Sastre,122,Holuna x6,Melena de Trollaraj ,132
+125,Sastre,122,Holuna x6,Calzoncillo de trooloko ,6
+126,Sastre,127,Casco de la ardilla de las nieves x1,Kuakuá Baño Nagate ,2
+127,Sastre,127,Casco de la ardilla de las nieves x1,Pluma de Morsagüino Real ,4
+128,Sastre,127,Casco de la ardilla de las nieves x1,Huevo de Morsagüino Real ,1
+129,Sastre,127,Casco de la ardilla de las nieves x1,Cola de la Ardilla de las nieves ,28
+130,Sastre,127,Casco de la ardilla de las nieves x1,Bellota de ardilla de las nieves ,5
+131,Sastre,127,Casco de la ardilla de las nieves x1,Ojo torvo de frigóquero ,4
+132,Sastre,127,Casco de la ardilla de las nieves x1,Turmalina ,3
+133,Sastre,127,Casco de la ardilla de las nieves x1,Pluma de Rasgabola Mayor ,3
+134,Sastre,128,Gorro de discípulo zoth x4,Rótula de discípulo zoth ,24
+135,Sastre,128,Gorro de discípulo zoth x4,Ahumador zoth ,104
+136,Sastre,128,Gorro de discípulo zoth x4,Tejido zoth ,28
+137,Sastre,128,Gorro de discípulo zoth x4,Kristalita ,8
+138,Sastre,128,Gorro de discípulo zoth x4,Pluma de Rasgabola Mayor ,8
+139,Sastre,128,Gorro de discípulo zoth x4,Pistilo de Tynril ,12
+140,Sastre,128,Gorro de discípulo zoth x4,Concentrado de espesura ,8
+141,Sastre,128,Gorro de discípulo zoth x4,Huevo de Thor Pestruz ,4
+142,Sastre,131,Capa Aritxosa x11,Cola de Jalamut Real ,11
+143,Sastre,131,Capa Aritxosa x11,Turmalina ,33
+144,Sastre,131,Capa Aritxosa x11,Clavícula de jalamut ,55
+145,Sastre,131,Capa Aritxosa x11,Ojo de jalamut de guerra ,44
+146,Sastre,131,Capa Aritxosa x11,Lana de Jalamut Real ,44
+147,Sastre,131,Capa Aritxosa x11,Plumón del Maestro Cuerbok ,33
+148,Sastre,131,Capa Aritxosa x11,Piel de Cocabulia ,11
+149,Sastre,131,Capa Aritxosa x11,Lana de jalamut ,385
+150,Sastre,139,Capa de Maxilubo x2,Cabellera de Maxilubo ,4
+151,Sastre,139,Capa de Maxilubo x2,Testículos del Tanukui San ,2
+152,Sastre,139,Capa de Maxilubo x2,Ámbar de Roble Blando ,2
+153,Sastre,139,Capa de Maxilubo x2,Dientes de milubo ,14
+154,Sastre,139,Capa de Maxilubo x2,Cola de milubo ,52
+155,Sastre,139,Capa de Maxilubo x2,Testículos de cerdolubo ,12
+156,Sastre,139,Capa de Maxilubo x2,Trama dimensional ,6
+157,Sastre,139,Capa de Maxilubo x2,Concentrado de bosque ,2
+158,Sastre,141,Casco de Maxilubo x1,Cabellera de Maxilubo ,4
+159,Sastre,141,Casco de Maxilubo x1,Pincho de El Piko ,3
+160,Sastre,141,Casco de Maxilubo x1,Testículos del Tanukui San ,1
+161,Sastre,141,Casco de Maxilubo x1,Dientes de milubo ,8
+162,Sastre,141,Casco de Maxilubo x1,Ojo de cerdolubo ,34
+163,Sastre,141,Casco de Maxilubo x1,Canino de abuelubo ,31
+164,Sastre,141,Casco de Maxilubo x1,Trama dimensional ,6
+165,Sastre,141,Casco de Maxilubo x1,Concentrado de bosque ,2
+166,Sastre,142,Capa gastada de Roble Blando x5,Raíz de Roble Blando ,10
+167,Sastre,142,Capa gastada de Roble Blando x5,Piel de Skonk ,5
+168,Sastre,142,Capa gastada de Roble Blando x5,Kuakuá Baño Nagate ,10
+169,Sastre,142,Capa gastada de Roble Blando x5,Ámbar de abráknido oscuro irascible ,10
+170,Sastre,142,Capa gastada de Roble Blando x5,Hoja de rama curadora ,35
+171,Sastre,142,Capa gastada de Roble Blando x5,Pata de abrakno irascible ,35
+172,Sastre,142,Capa gastada de Roble Blando x5,Concentrado de bosque ,10
+173,Sastre,142,Capa gastada de Roble Blando x5,Turmalina ,30
+174,Sastre,146,Capa de papatroz x2,Trama dimensional ,12
+175,Sastre,146,Capa de papatroz x2,Concentrado de bosque ,4
+176,Sastre,146,Capa de papatroz x2,Colmillo de Perfósil ,8
+177,Sastre,146,Capa de papatroz x2,Pluma de Morsagüino Real ,8
+178,Sastre,146,Capa de papatroz x2,Kamatrix ,20
+179,Sastre,146,Capa de papatroz x2,Cuerno de papatroz ,52
+180,Sastre,146,Capa de papatroz x2,Ojo de perfidotroz ,66
+181,Sastre,146,Capa de papatroz x2,Cola mágica de Funoroshi ,4
+182,Sastre,148,Capa Itanflam x4,Bufanda de Hanshi ,18
+183,Sastre,148,Capa Itanflam x4,Pezuña de balisisco ,28
+184,Sastre,148,Capa Itanflam x4,Cuerno de balíbido ,24
+185,Sastre,148,Capa Itanflam x4,Estómago de emobalí ,28
+186,Sastre,148,Capa Itanflam x4,Ámbar de Roble Blando ,4
+187,Sastre,148,Capa Itanflam x4,Mecha rebelde de Hell Mina ,8
+188,Sastre,148,Capa Itanflam x4,Concentrado de bosque ,8
+189,Sastre,148,Capa Itanflam x4,Trama dimensional ,24
+190,Sastre,151,Simbreria x1,Trasero de tufo aéreo ,41
+191,Sastre,151,Simbreria x1,Relleno de mopet ,48
+192,Sastre,151,Simbreria x1,Etmoides de Minotot ,2
+193,Sastre,151,Simbreria x1,Calcetín del Kimbo ,1
+194,Sastre,151,Simbreria x1,Concentrado de bosque primario ,1
+195,Sastre,151,Simbreria x1,Esfenoides del Kimbo ,3
+196,Sastre,151,Simbreria x1,Guijarro solar ,1
+197,Sastre,151,Simbreria x1,Tejido de rey stropajo ,1
+198,Sastre,152,Blopisetombrero x2,Hoja de blop real ,12
+199,Sastre,152,Blopisetombrero x2,Hoja de Blop Multicolor Real ,8
+200,Sastre,152,Blopisetombrero x2,Trama dimensional ,12
+201,Sastre,152,Blopisetombrero x2,Concentrado de bosque primario ,2
+202,Sastre,152,Blopisetombrero x2,Flor de bloponcio ,40
+203,Sastre,152,Blopisetombrero x2,Huevo de Thor Pestruz ,2
+204,Sastre,152,Blopisetombrero x2,Blop muerto ,40
+205,Sastre,152,Blopisetombrero x2,Flor de blopiseta ,40
+206,Sastre,154,Casco de tufo aéreo x4,Coco de tufo de las llanuras ,52
+207,Sastre,154,Casco de tufo aéreo x4,Ala de tufo de las llanuras ,204
+208,Sastre,154,Casco de tufo aéreo x4,Amígdalas de tufo oscuro ,204
+209,Sastre,154,Casco de tufo aéreo x4,Coco de tufo aéreo ,52
+210,Sastre,154,Casco de tufo aéreo x4,Coco de tufo oscuro ,52
+211,Sastre,154,Casco de tufo aéreo x4,Trasero de tufo aéreo ,204
+212,Sastre,154,Casco de tufo aéreo x4,Calcetín del Kimbo ,4
+213,Sastre,154,Casco de tufo aéreo x4,Ámbar de Tynril ,4
+214,Sastre,158,Mácara bodú bortam x4,Calcetín del Kimbo ,4
+215,Sastre,158,Mácara bodú bortam x4,Pistilo de Tynril ,12
+216,Sastre,158,Mácara bodú bortam x4,Colmillo de Perfósil ,12
+217,Sastre,158,Mácara bodú bortam x4,Ojo de perfidotroz ,128
+218,Sastre,158,Mácara bodú bortam x4,Piel de metaforatroz ,116
+219,Sastre,158,Mácara bodú bortam x4,Kamatrix ,40
+220,Sastre,158,Mácara bodú bortam x4,Máscara kaníbola ,4
+221,Sastre,158,Mácara bodú bortam x4,Muñeca bodú bortam ,140
+222,Sastre,161,Bloprona Real x11,Hoja de Blop Multicolor Real ,44
+223,Sastre,161,Bloprona Real x11,Guijarro solar ,22
+224,Sastre,161,Bloprona Real x11,Hoja de blop real ,132
+225,Sastre,161,Bloprona Real x11,Flor de Blop Multicolor Real ,11
+226,Sastre,161,Bloprona Real x11,Flor de Blop Guinda Real ,33
+227,Sastre,161,Bloprona Real x11,Flor de Blop Coco Real ,33
+228,Sastre,161,Bloprona Real x11,Flor de Blop Reineta Real ,33
+229,Sastre,161,Bloprona Real x11,Flor de Blop Índigo Real ,33
+230,Sastre,169,Sombrero Stapokaliptik x2,Vértebra de Obsidiantre ,2
+231,Sastre,169,Sombrero Stapokaliptik x2,Fémur de Sfinter Cell ,6
+232,Sastre,169,Sombrero Stapokaliptik x2,Trama dimensional ,18
+233,Sastre,169,Sombrero Stapokaliptik x2,Huevo de ventozador ,14
+234,Sastre,169,Sombrero Stapokaliptik x2,Escoria de Obsidiantre ,8
+235,Sastre,169,Sombrero Stapokaliptik x2,Concentrado de bosque primario ,4
+236,Sastre,169,Sombrero Stapokaliptik x2,Residuo de solfatara ,72
+237,Sastre,169,Sombrero Stapokaliptik x2,Piedra atomística ,74
+238,Sastre,171,Capa del Capón Turcito Rojo x5,Tejido de mopet ,50
+239,Sastre,171,Capa del Capón Turcito Rojo x5,Relleno de mopet ,180
+240,Sastre,171,Capa del Capón Turcito Rojo x5,Trasero de tufo aéreo ,205
+241,Sastre,171,Capa del Capón Turcito Rojo x5,Pezuña de Minotot ,5
+242,Sastre,171,Capa del Capón Turcito Rojo x5,Cola de Kanígrula ,5
+243,Sastre,171,Capa del Capón Turcito Rojo x5,Esfenoides del Kimbo ,10
+244,Sastre,171,Capa del Capón Turcito Rojo x5,Concentrado de bosque tropical ,5
+245,Sastre,171,Capa del Capón Turcito Rojo x5,Trama dimensional ,45
+246,Sastre,175,Tocado de la Tengu Gélifux x5,Lana de Tengu Gélifux ,15
+247,Sastre,175,Tocado de la Tengu Gélifux x5,Ojo de Anelidón ,15
+248,Sastre,175,Tocado de la Tengu Gélifux x5,Etmoides de Minotot ,20
+249,Sastre,175,Tocado de la Tengu Gélifux x5,Lágrima de gélifux ,45
+250,Sastre,175,Tocado de la Tengu Gélifux x5,Córnea de kami gélifux ,10
+251,Sastre,175,Tocado de la Tengu Gélifux x5,Oreja de soryo gélifux ,205
+252,Sastre,175,Tocado de la Tengu Gélifux x5,Guijarro solar ,10
+253,Sastre,175,Tocado de la Tengu Gélifux x5,Trama dimensional ,45
+254,Sastre,179,Capa de Cil x26,Volva de galerina ,936
+255,Sastre,179,Capa de Cil x26,Lamela de cortinaria ,260
+256,Sastre,179,Capa de Cil x26,Oreja de galerina ,182
+257,Sastre,179,Capa de Cil x26,La pata de Korriandr e,78
+258,Sastre,179,Capa de Cil x26,Esfenoides del Kimbo ,78
+259,Sastre,179,Capa de Cil x26,Ojo de Anelidón ,78
+260,Sastre,179,Capa de Cil x26,Guijarro solar ,52
+261,Sastre,179,Capa de Cil x26,Trama dimensional ,234
+262,Sastre,193,Casco de Ogivol x1,Fragmento de Ugahlureta ,1
+263,Sastre,193,Casco de Ogivol x1,Cuerno de Sombra ,3
+264,Sastre,193,Casco de Ogivol x1,Piel de Bworker ,1
+265,Sastre,193,Casco de Ogivol x1,Corteza de champáknido ,53
+266,Sastre,193,Casco de Ogivol x1,Lengua de champidonte ,56
+267,Sastre,193,Casco de Ogivol x1,Fibra de cáñamo ,10
+268,Sastre,193,Casco de Ogivol x1,Concentrado de selva ,1
+269,Sastre,193,Casco de Ogivol x1,Tejido misterioso ,8
+270,Sastre,194,Capa de Letalina x2,Pañuelo agujereado de agua ,106
+271,Sastre,194,Capa de Letalina x2,Pañuelo agujereado de tierra ,106
+272,Sastre,194,Capa de Letalina x2,Tornillo de cybwork ,26
+273,Sastre,194,Capa de Letalina x2,Piel de Bworker ,2
+274,Sastre,194,Capa de Letalina x2,Hueso del carpo de Golosotrón Real ,2
+275,Sastre,194,Capa de Letalina x2,Cuerno de XLII ,8
+276,Sastre,194,Capa de Letalina x2,Tomatoline ,24
+277,Sastre,194,Capa de Letalina x2,Concentrado de selva ,2
+278,Sastre,196,Máscara de Klim x2,Ojo de cuereñor ,118
+279,Sastre,196,Máscara de Klim x2,Tejido de cuerubugui ,18
+280,Sastre,196,Máscara de Klim x2,Cerebro de cuerchinbol ,4
+281,Sastre,196,Máscara de Klim x2,Bigote de Klim ,8
+282,Sastre,196,Máscara de Klim x2,Vello de la axila de Mizz Frizz ,6
+283,Sastre,196,Máscara de Klim x2,Cola de Golosotrón Real ,6
+284,Sastre,196,Máscara de Klim x2,Turmalina ,24
+285,Sastre,196,Máscara de Klim x2,Cremallera ,2
+286,Sastre,198,Gorro de Yokashi x1,Baba de bobalicor ,47
+287,Sastre,198,Gorro de Yokashi x1,Sangre de carghnicero ,12
+288,Sastre,198,Gorro de Yokashi x1,Botella de Botsgüena ,10
+289,Sastre,198,Gorro de Yokashi x1,Pelos del conde Razof ,2
+290,Sastre,198,Gorro de Yokashi x1,Fragmento de Ugahlureta ,1
+291,Sastre,198,Gorro de Yokashi x1,Pata de Cil ,3
+292,Sastre,198,Gorro de Yokashi x1,Concentrado de selva ,1
+293,Sastre,198,Gorro de Yokashi x1,Turmalina ,12
+294,Sastre,199,Máscara de Golosotrón Real x1,Cola de Golosotrón Real ,2
+295,Sastre,199,Máscara de Golosotrón Real x1,Piel de Bworker ,1
+296,Sastre,199,Máscara de Golosotrón Real x1,Cuerno de XLII ,1
+297,Sastre,199,Máscara de Golosotrón Real x1,Iris de golosote ,8
+298,Sastre,199,Máscara de Golosotrón Real x1,Oreja de golosorubik ,47
+299,Sastre,199,Máscara de Golosotrón Real x1,Pelos de golosote ,51
+300,Sastre,199,Máscara de Golosotrón Real x1,Concentrado de selva ,1
+301,Sastre,199,Máscara de Golosotrón Real x1,Turmalina ,12
+302,Cazador,0,Caldo de carne x77,Carne intangible ,77
+303,Cazador,10,Albóndiga de carne x244,Carne Picada ,244
+304,Cazador,20,Buñuelos astrubienses x198,Carne manida ,198
+305,Cazador,20,Buñuelos astrubienses x198,Trigo ,198
+306,Cazador,30,Rollo de carne x182,Carne adulterada ,182
+307,Cazador,30,Rollo de carne x182,Trigo ,182
+308,Cazador,40,Papillote al limón x176,Carne industrial ,176
+309,Cazador,40,Papillote al limón x176,Cebada ,176
+310,Cazador,40,Papillote al limón x176,Limón ,176
+311,Cazador,50,Ensalada sufokeña x171,Carne tierna ,171
+312,Cazador,50,Ensalada sufokeña x171,Cebada ,171
+313,Cazador,50,Ensalada sufokeña x171,Salace ,171
+314,Cazador,60,Fritada amakneana x168,Carne corrompida ,168
+315,Cazador,60,Fritada amakneana x168,Avena ,168
+316,Cazador,60,Fritada amakneana x168,Aceite para freír ,168
+317,Cazador,70,Parmentier de cebolla x166,Carne rancia ,166
+318,Cazador,70,Parmentier de cebolla x166,Avena ,166
+319,Cazador,70,Parmentier de cebolla x166,Cebolla ,166
+320,Cazador,80,Paté bontariano x164,Carne sanguinolenta ,164
+321,Cazador,80,Paté bontariano x164,Lúpulo ,164
+322,Cazador,80,Paté bontariano x164,Grasa gelatinosa ,164
+323,Cazador,90,Olla podrida sabrosa x163,Carne podrida ,163
+324,Cazador,90,Olla podrida sabrosa x163,Lúpulo ,163
+325,Cazador,90,Olla podrida sabrosa x163,Dosis de zumo sabroso ,163
+326,Cazador,100,Revuelto campero x162,Carne exudante ,162
+327,Cazador,100,Revuelto campero x162,Lino ,162
+328,Cazador,100,Revuelto campero x162,Berenjena ,162
+329,Cazador,110,Pemmican con alubias x162,Carne seca ,162
+330,Cazador,110,Pemmican con alubias x162,Lino ,162
+331,Cazador,110,Pemmican con alubias x162,Alubias ,162
+332,Cazador,120,Churrasco brakmariano x161,Carne cruda ,161
+333,Cazador,120,Churrasco brakmariano x161,Centeno ,161
+334,Cazador,120,Churrasco brakmariano x161,Cenizas Eternas ,161
+335,Cazador,130,Marinada agridulce x160,Carne marmoleada ,160
+336,Cazador,130,Marinada agridulce x160,Centeno ,160
+337,Cazador,130,Marinada agridulce x160,Cereza ,160
+338,Cazador,140,Morcilla x160,Carne macerada ,160
+339,Cazador,140,Morcilla x160,Malta ,160
+340,Cazador,140,Morcilla x160,Sangre de scorbuto ,160
+341,Cazador,150,Carne en adobo con especias x159,Carne de animales silvestres ,159
+342,Cazador,150,Carne en adobo con especias x159,Malta ,159
+343,Cazador,150,Carne en adobo con especias x159,Especias ,159
+344,Cazador,160,Cocido recreativo x159,Carne fresca ,159
+345,Cazador,160,Cocido recreativo x159,Cáñamo ,318
+346,Cazador,160,Cocido recreativo x159,Agua potable ,159
+347,Cazador,170,Lomo x159,Carne magra ,159
+348,Cazador,170,Lomo x159,Cáñamo ,318
+349,Cazador,170,Lomo x159,Polvos mágicos ,159
+350,Cazador,180,Rollito Paul Delpaso x158,Carne viciada ,158
+351,Cazador,180,Rollito Paul Delpaso x158,Maíz ,316
+352,Cazador,180,Rollito Paul Delpaso x158,Polvo temporal ,158
+353,Cazador,190,Butifarra de presa x158,Carne negra ,158
+354,Cazador,190,Butifarra de presa x158,Maíz ,316
+355,Cazador,190,Butifarra de presa x158,Resina ,158
+356,Joyero,0,Anillo del audaz x1,Trigo ,1
+357,Joyero,0,Anillo del audaz x1,Madera de fresno ,1
+358,Joyero,0,Anillo del audaz x1,Hierro ,1
+359,Joyero,0,Anillo del audaz x1,Ortiga ,1
+360,Joyero,0,Anillo del audaz x1,Gobio ,1
+361,Joyero,2,Anillo forcesco x44,Piel de goota ,132
+362,Joyero,2,Anillo forcesco x44,Cola de miaufián ,132
+363,Joyero,11,Anillo de las Rocosas x12,Sangre de jalató ,12
+364,Joyero,11,Anillo de las Rocosas x12,Pluma de pío amarillo ,36
+365,Joyero,18,Anillo Novato x3,Pluma de pío violeta ,9
+366,Joyero,18,Anillo Novato x3,Flor del diente de león diabólico ,9
+367,Joyero,20,Anillo de esponja x11,Piel de Mob Lasponja ,11
+368,Joyero,20,Anillo de esponja x11,Toalla de playa ,33
+369,Joyero,27,Pompamuleto x5,Piel de larva verde ,20
+370,Joyero,27,Pompamuleto x5,Pluma de pío violeta ,20
+371,Joyero,27,Pompamuleto x5,Pluma de pío rosa ,20
+372,Joyero,31,Anillo Real de Jalató x6,Cuero de Jalató Real ,6
+373,Joyero,31,Anillo Real de Jalató x6,Lana de Jalató Real ,6
+374,Joyero,31,Anillo Real de Jalató x6,Lana de jefe de guerra jalató ,36
+375,Joyero,36,Anillo bola x15,Cuero de jalató negro ,30
+376,Joyero,36,Anillo bola x15,Antenas de vilinsekto ,75
+377,Joyero,36,Anillo bola x15,Pata de Blatarata ,60
+378,Joyero,45,Anillo Saymassa x1,Coral mohito ,5
+379,Joyero,45,Anillo Saymassa x1,Laminilla de champo marrón ,6
+380,Joyero,45,Anillo Saymassa x1,Calzoncillo ajustado de cuero de gárglifo ,1
+381,Joyero,45,Anillo Saymassa x1,Patte de Kanknreblath ,2
+382,Joyero,46,Anillo de Haku x4,Coral mohito ,24
+383,Joyero,46,Anillo de Haku x4,Alas de escarahoja blanco ,20
+384,Joyero,46,Anillo de Haku x4,Concentrado de boscaje ,8
+385,Joyero,46,Anillo de Haku x4,Vísceras de Escarajefe Dorado ,4
+386,Joyero,49,Amuleto de Logram x6,Pico de pica de gobobo ,42
+387,Joyero,49,Amuleto de Logram x6,Alas de escarahoja rojo ,36
+388,Joyero,49,Amuleto de Logram x6,Champiñón Luidchi ,6
+389,Joyero,49,Amuleto de Logram x6,Coral magistral ,6
+390,Joyero,54,Brazalete peloso x8,Manual del director Grunob ,8
+391,Joyero,54,Brazalete peloso x8,Concentrado de oquedal ,8
+392,Joyero,54,Brazalete peloso x8,Tatuaje de chico malo ,24
+393,Joyero,54,Brazalete peloso x8,Gorro de gobalista ,24
+394,Joyero,60,Amulette « Dents de Wabbits » x17,Diente de wabbit ,68
+395,Joyero,60,Amulette « Dents de Wabbits » x17,Pata de wabbit ,119
+396,Joyero,60,Amulette « Dents de Wabbits » x17,Cráneo de wabbit esqueleto ,17
+397,Joyero,60,Amulette « Dents de Wabbits » x17,Paño del Wey Wabbit ,17
+398,Joyero,70,Amuleto de jefe cocodrail x5,Escama de cocodrail ,15
+399,Joyero,70,Amuleto de jefe cocodrail x5,Diente de cocodrail ,40
+400,Joyero,70,Amuleto de jefe cocodrail x5,Cráneo de jefe cocodrail ,5
+401,Joyero,70,Amuleto de jefe cocodrail x5,Pelaje de Nelwynn ,10
+402,Joyero,70,Amuleto de jefe cocodrail x5,Bakelitita ,5
+403,Joyero,74,Amuleto de Nelwynn x3,Semilla de scorbuto ,21
+404,Joyero,74,Amuleto de Nelwynn x3,Morros de mata ,6
+405,Joyero,74,Amuleto de Nelwynn x3,Pelotita ,3
+406,Joyero,74,Amuleto de Nelwynn x3,Pelaje de Nelwynn ,12
+407,Joyero,74,Amuleto de Nelwynn x3,Concentrado de fajina ,3
+408,Joyero,77,Alianza Tierradala x2,Cáscara de dragohuevo arcilloso ,22
+409,Joyero,77,Alianza Tierradala x2,Pólvora ,2
+410,Joyero,77,Alianza Tierradala x2,Babine de Mata ,26
+411,Joyero,77,Alianza Tierradala x2,Barba del Wey Wobot ,8
+412,Joyero,77,Alianza Tierradala x2,Concentrado de fajina ,2
+413,Joyero,79,Pulsera Mágica de Farle x1,Tejido púrpura ,8
+414,Joyero,79,Pulsera Mágica de Farle x1,Oreja de medibwork ,7
+415,Joyero,79,Pulsera Mágica de Farle x1,Mimbre hechizado ,1
+416,Joyero,79,Pulsera Mágica de Farle x1,Barba del Wey Wobot ,8
+417,Joyero,79,Pulsera Mágica de Farle x1,Concentrado de fajina ,1
+418,Joyero,80,Blopanillo Índigo Real x10,Cacho de blop índigo ,20
+419,Joyero,80,Blopanillo Índigo Real x10,Flor de bloponcio ,40
+420,Joyero,80,Blopanillo Índigo Real x10,Flor de Blop Índigo Real ,10
+421,Joyero,80,Blopanillo Índigo Real x10,Hoja de blop real ,40
+422,Joyero,80,Blopanillo Índigo Real x10,Frasco de Gelatina Real de Aciano ,10
+423,Joyero,87,Alianza de Farle x3,Huevo de dragohuevo arcilloso ,24
+424,Joyero,87,Alianza de Farle x3,Concentrado de fajina ,6
+425,Joyero,87,Alianza de Farle x3,Tornillo de wabbit ,6
+426,Joyero,87,Alianza de Farle x3,Bumerán de warko marrón ,3
+427,Joyero,87,Alianza de Farle x3,Coraza de Mantícoro ,12
+428,Joyero,87,Alianza de Farle x3,Barba de Le Chuko ,9
+429,Joyero,90,Blopanillo Multicolor Real x10,Flor de Blop Guinda Real ,10
+430,Joyero,90,Blopanillo Multicolor Real x10,Flor de Blop Coco Real ,10
+431,Joyero,90,Blopanillo Multicolor Real x10,Flor de Blop Índigo Real ,10
+432,Joyero,90,Blopanillo Multicolor Real x10,Flor de Blop Reineta Real ,10
+433,Joyero,90,Blopanillo Multicolor Real x10,Hoja de Blop Multicolor Real ,30
+434,Joyero,90,Blopanillo Multicolor Real x10,Kuarzo ,10
+435,Joyero,97,Guantelete de marranárgola x1,Picaporte de marranárgola ,1
+436,Joyero,97,Guantelete de marranárgola x1,Fragmento de marranárgola ,3
+437,Joyero,97,Guantelete de marranárgola x1,Piel de don dessangre ,4
+438,Joyero,97,Guantelete de marranárgola x1,Turmalina ,1
+439,Joyero,97,Guantelete de marranárgola x1,Marfil ,4
+440,Joyero,97,Guantelete de marranárgola x1,Hocico de Dragocerdo ,3
+441,Joyero,98,Guante de la Rata Negra x2,Crâne magique de Rat Atinée ,22
+442,Joyero,98,Guante de la Rata Negra x2,Viejo libro de Rat Lit ,28
+443,Joyero,98,Guante de la Rata Negra x2,Pelo de rata brakmariana ,10
+444,Joyero,98,Guante de la Rata Negra x2,Trenza de Trankitronko ,6
+445,Joyero,98,Guante de la Rata Negra x2,Kuarzo ,2
+446,Joyero,98,Guante de la Rata Negra x2,Crines de Rata Negra ,2
+447,Joyero,100,Guante de la Rata Negra x5,Crâne magique de Rat Atinée ,55
+448,Joyero,100,Guante de la Rata Negra x5,Viejo libro de Rat Lit ,70
+449,Joyero,100,Guante de la Rata Negra x5,Pelo de rata brakmariana ,25
+450,Joyero,100,Guante de la Rata Negra x5,Trenza de Trankitronko ,15
+451,Joyero,100,Guante de la Rata Negra x5,Kuarzo ,5
+452,Joyero,100,Guante de la Rata Negra x5,Crines de Rata Negra ,5
+453,Joyero,103,Mazorramuleto x9,Hoja de mazorral ,153
+454,Joyero,103,Mazorramuleto x9,Pluma de dodoncella ,27
+455,Joyero,103,Mazorramuleto x9,Kola ,54
+456,Joyero,103,Mazorramuleto x9,Piel de Moon ,36
+457,Joyero,103,Mazorramuleto x9,Yema de Abráknido Ancestral ,9
+458,Joyero,103,Mazorramuleto x9,Turmalina ,27
+459,Joyero,103,Mazorramuleto x9,Kuarzo ,18
+460,Joyero,110,Anillo de rata bontariana x6,Pelo de rata bontariana ,36
+461,Joyero,110,Anillo de rata bontariana x6,Plumón del Maestro Cuerbok ,18
+462,Joyero,110,Anillo de rata bontariana x6,Collar de chacrata ,90
+463,Joyero,110,Anillo de rata bontariana x6,Lanzapiedras de perverrata ,96
+464,Joyero,110,Anillo de rata bontariana x6,Kriptonita ,6
+465,Joyero,110,Anillo de rata bontariana x6,Short de capoeirrata ,24
+466,Joyero,110,Anillo de rata bontariana x6,Crines de Rata Blanca ,12
+467,Joyero,115,Anillo de rata brakmariana x6,Pelo de rata brakmariana ,36
+468,Joyero,115,Anillo de rata brakmariana x6,Plumón del Maestro Cuerbok ,18
+469,Joyero,115,Anillo de rata brakmariana x6,Oreja de rataplastada ,90
+470,Joyero,115,Anillo de rata brakmariana x6,Tubo oxidado de ratarruina ,96
+471,Joyero,115,Anillo de rata brakmariana x6,Kriptonita ,6
+472,Joyero,115,Anillo de rata brakmariana x6,Pústula de ratarmonía ,24
+473,Joyero,115,Anillo de rata brakmariana x6,Crines de Rata Negra ,12
+474,Joyero,118,Amuleto del Renuevo x3,Esmeralda ,9
+475,Joyero,118,Amuleto del Renuevo x3,Pelos del Minotauroro ,3
+476,Joyero,118,Amuleto del Renuevo x3,Pluma de Rasgabola Mayor ,9
+477,Joyero,118,Amuleto del Renuevo x3,Concentrado de espesura ,3
+478,Joyero,118,Amuleto del Renuevo x3,Pañal usado de warko violeta ,57
+479,Joyero,118,Amuleto del Renuevo x3,Hoja de cawotaman ,42
+480,Joyero,118,Amuleto del Renuevo x3,Turmalina ,9
+481,Joyero,121,Alianza mutesca x5,Lana de Jalamut Real ,15
+482,Joyero,121,Alianza mutesca x5,Cola de Jalamut Real ,5
+483,Joyero,121,Alianza mutesca x5,Pluma vibrante de Tofu Real ,5
+484,Joyero,121,Alianza mutesca x5,Lana de jalamut ,95
+485,Joyero,121,Alianza mutesca x5,Cuero de jalamutín ,25
+486,Joyero,121,Alianza mutesca x5,Ojo de jalamut de guerra ,30
+487,Joyero,121,Alianza mutesca x5,Concentrado de espesura ,10
+488,Joyero,121,Alianza mutesca x5,Kriptonita ,10
+489,Joyero,125,Medalla Kido x2,Pluma de Tofu Real ,8
+490,Joyero,125,Medalla Kido x2,Concentrado de espesura ,4
+491,Joyero,125,Medalla Kido x2,Guijarro lunar ,4
+492,Joyero,125,Medalla Kido x2,Pico de kido ,10
+493,Joyero,125,Medalla Kido x2,Pluma de trasero de kido ,52
+494,Joyero,125,Medalla Kido x2,Pluma de Rasgabola Mayor ,8
+495,Joyero,125,Medalla Kido x2,Pelos del Minotauroro ,6
+496,Joyero,125,Medalla Kido x2,Crines de trooloko ,38
+497,Joyero,127,Anillo mutesco x1,Lana de Jalamut Real ,3
+498,Joyero,127,Anillo mutesco x1,Cola de Jalamut Real ,1
+499,Joyero,127,Anillo mutesco x1,Pluma de Tofu Real ,3
+500,Joyero,127,Anillo mutesco x1,Lana de jalamut legendario ,23
+501,Joyero,127,Anillo mutesco x1,Cuerno de jalamut de guerra ,24
+502,Joyero,127,Anillo mutesco x1,Clavícula de jalamut ,5
+503,Joyero,127,Anillo mutesco x1,Kriptonita ,2
+504,Joyero,127,Anillo mutesco x1,Turmalina ,3
+505,Joyero,128,Amuleto de Jalamut Real x4,Lana de Jalamut Real ,12
+506,Joyero,128,Amuleto de Jalamut Real x4,Cola de Jalamut Real ,4
+507,Joyero,128,Amuleto de Jalamut Real x4,Pluma de Tofu Real ,16
+508,Joyero,128,Amuleto de Jalamut Real x4,Lana de jalamut ,96
+509,Joyero,128,Amuleto de Jalamut Real x4,Cuero de jalamutín ,24
+510,Joyero,128,Amuleto de Jalamut Real x4,Oreja de jalamutín ,92
+511,Joyero,128,Amuleto de Jalamut Real x4,Concentrado de espesura ,8
+512,Joyero,128,Amuleto de Jalamut Real x4,Toumaline ,12
+513,Joyero,131,Amuleto de grullestruz x7,Turmalina ,21
+514,Joyero,131,Amuleto de grullestruz x7,Concentrado de bosque ,7
+515,Joyero,131,Amuleto de grullestruz x7,Paire de Dado de Thor Pestruz ,28
+516,Joyero,131,Amuleto de grullestruz x7,Lana de Jalamut Real ,28
+517,Joyero,131,Amuleto de grullestruz x7,Testículos del Tanukui San ,14
+518,Joyero,131,Amuleto de grullestruz x7,Pata de grullestruz ,42
+519,Joyero,131,Amuleto de grullestruz x7,Pluma de pestruzatón ,147
+520,Joyero,131,Amuleto de grullestruz x7,Pico de pestruzillo ,42
+521,Joyero,137,Talismán Dolina x10,Cola de Jalamut Real ,10
+522,Joyero,137,Talismán Dolina x10,Plumón del Maestro Cuerbok ,10
+523,Joyero,137,Talismán Dolina x10,Ojo de jalamut de guerra ,60
+524,Joyero,137,Talismán Dolina x10,Pelos del Minotauroro ,10
+525,Joyero,137,Talismán Dolina x10,Kobalita ,10
+526,Joyero,137,Talismán Dolina x10,Oreja de jalamutín ,260
+527,Joyero,137,Talismán Dolina x10,Turmalina ,30
+528,Joyero,137,Talismán Dolina x10,Lana de jalamut ,240
+529,Joyero,144,Anillo de Frigostina x2,Huevo de Morsagüino Real ,2
+530,Joyero,144,Anillo de Frigostina x2,Kuakuá de bain de Nagate ,6
+531,Joyero,144,Anillo de Frigostina x2,Piel de Skonk ,2
+532,Joyero,144,Anillo de Frigostina x2,Oreja de kaniglú ,54
+533,Joyero,144,Anillo de Frigostina x2,Bellota de ardilla de las nieves ,14
+534,Joyero,144,Anillo de Frigostina x2,Piel de barrigüino ,66
+535,Joyero,144,Anillo de Frigostina x2,Trama dimensional ,12
+536,Joyero,144,Anillo de Frigostina x2,Concentrado de bosque ,4
+537,Joyero,146,Alianza de Hell Mina x3,Concentrado de bosque ,6
+538,Joyero,146,Alianza de Hell Mina x3,Esfenoides del Kimbo ,6
+539,Joyero,146,Alianza de Hell Mina x3,Mecha rebelde de Hell Mina ,12
+540,Joyero,146,Alianza de Hell Mina x3,Kuakuá de bain de Nagate ,9
+541,Joyero,146,Alianza de Hell Mina x3,Trama dimensional ,18
+542,Joyero,146,Alianza de Hell Mina x3,Brote de malseto ,93
+543,Joyero,146,Alianza de Hell Mina x3,Cuerno de malastado ,21
+544,Joyero,146,Alianza de Hell Mina x3,Pétalo de malter ,24
+545,Joyero,149,Pulsera del Minotot x1,Etmoides de Minotot ,3
+546,Joyero,149,Pulsera del Minotot x1,Pelos del Minotauroro ,3
+547,Joyero,149,Pulsera del Minotot x1,Mecha rebelde de Hell Mina ,2
+548,Joyero,149,Pulsera del Minotot x1,Piel de mino ,8
+549,Joyero,149,Pulsera del Minotot x1,Cuerno de mominotauro ,2
+550,Joyero,149,Pulsera del Minotot x1,Cuerno de deminobola ,2
+551,Joyero,149,Pulsera del Minotot x1,Turmalina ,6
+552,Joyero,149,Pulsera del Minotot x1,Kobalita ,2
+553,Joyero,150,Brazalete Yenda x5,Corteza de floribundo ,15
+554,Joyero,150,Brazalete Yenda x5,Trasero de tufo aéreo ,80
+555,Joyero,150,Brazalete Yenda x5,Calcetín del Kimbo ,5
+556,Joyero,150,Brazalete Yenda x5,Relleno de mopet ,90
+557,Joyero,150,Brazalete Yenda x5,Coco de tufo aéreo ,25
+558,Joyero,150,Brazalete Yenda x5,Cáscara del kasrakol ,20
+559,Joyero,150,Brazalete Yenda x5,Nudo de abrajidor claro ,25
+560,Joyero,150,Brazalete Yenda x5,Papada del Lodostropajo ,25
+561,Joyero,154,Talismán Coh x6,Fémur de Sfinter Cell ,18
+562,Joyero,154,Talismán Coh x6,Flotador de fantombrealagua ,36
+563,Joyero,154,Talismán Coh x6,Valva de fantimonel ,174
+564,Joyero,154,Talismán Coh x6,Escama de harpirata ,210
+565,Joyero,154,Talismán Coh x6,Pelo de Ben el Ripata ,12
+566,Joyero,154,Talismán Coh x6,Huevo de Morsagüino Real ,6
+567,Joyero,154,Talismán Coh x6,Guijarro solar ,6
+568,Joyero,154,Talismán Coh x6,Turmalina ,36
+569,Joyero,159,Zothuleto x26,Tejido zoth ,208
+570,Joyero,159,Zothuleto x26,Guijarro solar ,26
+571,Joyero,159,Zothuleto x26,Concentrado de bosque primario ,26
+572,Joyero,159,Zothuleto x26,Mecha rebelde de Hell Mina ,78
+573,Joyero,159,Zothuleto x26,Tibia de guerrero zoth ,52
+574,Joyero,159,Zothuleto x26,Heráldica de sargento zoth ,52
+575,Joyero,159,Zothuleto x26,Calcetín del Kimbo ,26
+576,Joyero,159,Zothuleto x26,Pistilo de Tynril ,78
+577,Joyero,173,Alianza du Guten Tak x4,Cuero de Tengu Gélifux ,4
+578,Joyero,173,Alianza du Guten Tak x4,Etmoides de Minotot ,16
+579,Joyero,173,Alianza du Guten Tak x4,Vértebra de Obsidiantre ,4
+580,Joyero,173,Alianza du Guten Tak x4,Concentrado de bosque tropical ,4
+581,Joyero,173,Alianza du Guten Tak x4,Turmalina ,36
+582,Joyero,173,Alianza du Guten Tak x4,Lágrima de gélifux ,36
+583,Joyero,173,Alianza du Guten Tak x4,Colmillo de kami gélifux ,40
+584,Joyero,173,Alianza du Guten Tak x4,Oreja de soryo gélifux ,188
+585,Joyero,176,Anillo de Cil x6,Pedúnculo de hongador ,48
+586,Joyero,176,Anillo de Cil x6,Lamela de dramanita ,210
+587,Joyero,176,Anillo de Cil x6,Corteza de korrosif ,264
+588,Joyero,176,Anillo de Cil x6,Pata de Cil ,18
+589,Joyero,176,Anillo de Cil x6,Brasas azuladas ,18
+590,Joyero,176,Anillo de Cil x6,Lana de Tengu Gélifux ,12
+591,Joyero,176,Anillo de Cil x6,Turmalina ,54
+592,Joyero,176,Anillo de Cil x6,Concentrado de bosque tropical ,6
+593,Joyero,181,Ugahmuleto x3,Espina de Ugah ,12
+594,Joyero,181,Ugahmuleto x3,Uña de Bworker ,3
+595,Joyero,181,Ugahmuleto x3,Cuerno de XLII ,6
+596,Joyero,181,Ugahmuleto x3,Fibra de cáñamo ,26
+597,Joyero,181,Ugahmuleto x3,Ojo de setador ,171
+598,Joyero,181,Ugahmuleto x3,Corteza de champáknido ,168
+599,Joyero,181,Ugahmuleto x3,Trama dimensional ,36
+600,Joyero,181,Ugahmuleto x3,Concentrado de bosque tropical ,6
+601,Joyero,184,Amuleto del descanso eterno x6,Pañuelo agujereado de tierra ,366
+602,Joyero,184,Amuleto del descanso eterno x6,Calzoncillos blancos ,48
+603,Joyero,184,Amuleto del descanso eterno x6,Forúnculo de mamá bwork ,300
+604,Joyero,184,Amuleto del descanso eterno x6,Uña de Bworker ,24
+605,Joyero,184,Amuleto del descanso eterno x6,Ojo de Anelidón ,18
+606,Joyero,184,Amuleto del descanso eterno x6,Fragmento de Ugahlureta ,6
+607,Joyero,184,Amuleto del descanso eterno x6,Turmalina ,72
+608,Joyero,184,Amuleto del descanso eterno x6,Concentrado de bosque tropical ,12
+609,Joyero,189,Amunito x4,Espina de Ugah ,12
+610,Joyero,189,Amunito x4,Ojo de Anelidón ,12
+611,Joyero,189,Amunito x4,Cuerno de XLII ,8
+612,Joyero,189,Amunito x4,Baba de seta peleona ,192
+613,Joyero,189,Amunito x4,Fibra de cáñamo ,40
+614,Joyero,189,Amunito x4,Trompa de Trompseta ,252
+615,Joyero,189,Amunito x4,Concentrado de bosque tropical ,8
+616,Joyero,189,Amunito x4,Turmalina ,48
+617,Joyero,192,Anillo de Fuji Gélifux x3,Pata de soryo gélifux ,27
+618,Joyero,192,Anillo de Fuji Gélifux x3,Colmillo de kami gélifux ,39
+619,Joyero,192,Anillo de Fuji Gélifux x3,Lágrima de gélifux ,30
+620,Joyero,192,Anillo de Fuji Gélifux x3,Cuero de Fuji Gélifux ,9
+621,Joyero,192,Anillo de Fuji Gélifux x3,Cuero de Tengu Gélifux ,3
+622,Joyero,192,Anillo de Fuji Gélifux x3,Ventosa del kralamar gigante ,9
+623,Joyero,192,Anillo de Fuji Gélifux x3,Concentrado de selva ,3
+624,Joyero,192,Anillo de Fuji Gélifux x3,Turmalina ,36
+625,Joyero,195,Pikanillo x2,Aceite de pikoleto ,18
+626,Joyero,195,Pikanillo x2,Cuero de dedstraik ,106
+627,Joyero,195,Pikanillo x2,Pila steamer ,20
+628,Joyero,195,Pikanillo x2,Corazón de Merkator ,2
+629,Joyero,195,Pikanillo x2,Lana de Sylargh ,6
+630,Joyero,195,Pikanillo x2,Espina de Ugah ,6
+631,Joyero,195,Pikanillo x2,Concentrado de selva ,2
+632,Joyero,195,Pikanillo x2,Turmalina ,24
+633,Joyero,197,Anillo glacial x4,Bigote de portoskarcha ,8
+634,Joyero,197,Anillo glacial x4,Muela de barrilicoso ,36
+635,Joyero,197,Anillo glacial x4,Bragas de Mizz Frizz ,4
+636,Joyero,197,Anillo glacial x4,Lana de Sylargh ,12
+637,Joyero,197,Anillo glacial x4,Brasas azuladas ,12
+638,Joyero,197,Anillo glacial x4,Turmalina ,48
+639,Joyero,197,Anillo glacial x4,Concentrado de selva ,4
+640,Joyero,197,Anillo glacial x4,Hongos micosianos congelados ,4
+641,Zapatero,0,Kamaturón x59,Reliquia de Incarnam ,177
+642,Zapatero,0,Kamaturón x59,Fuego Interno ,177
+643,Zapatero,9,Sandalias de pío rojo x24,Pluma du Pío rojo ,72
+644,Zapatero,9,Sandalias de pío rojo x24,Baba de jalató ,72
+645,Zapatero,19,Botas Campesinas x1,Algodón ancestral ,3
+646,Zapatero,19,Botas Campesinas x1,Pétalo mágico de Girasol Hambriento ,2
+647,Zapatero,20,Patada Karnaval x31,Piel de larva verde ,93
+648,Zapatero,20,Patada Karnaval x31,Piel de larva naranja ,93
+649,Zapatero,33,Cinturón del Tot x10,Pétalo de rosa oscura ,40
+650,Zapatero,33,Cinturón del Tot x10,Avellana ,40
+651,Zapatero,33,Cinturón del Tot x10,Piedra de granito ,20
+652,Zapatero,40,Magmarnés x8,Ojo de pinchóguiz ,40
+653,Zapatero,40,Magmarnés x8,Nujo muerto ,8
+654,Zapatero,40,Magmarnés x8,Cuero de miserata strubiense ,32
+655,Zapatero,46,Escaracinto azul x5,Alas de escarahoja azul ,25
+656,Zapatero,46,Escaracinto azul x5,Vísceras de escarahoja ,15
+657,Zapatero,46,Escaracinto azul x5,Cuero de boostacho prepuberto ,5
+658,Zapatero,46,Escaracinto azul x5,Alas de Escarajefe Dorado ,15
+659,Zapatero,50,Blopinturón guinda x6,Cacho de blop guinda ,42
+660,Zapatero,50,Blopinturón guinda x6,Blop muerto ,18
+661,Zapatero,50,Blopinturón guinda x6,Bisagra rota ,42
+662,Zapatero,50,Blopinturón guinda x6,Mangual de robot mangual ,6
+663,Zapatero,55,Cinturón de rata x7,Mistetas Despedazado ,7
+664,Zapatero,55,Cinturón de rata x7,Sello real falso ,42
+665,Zapatero,55,Cinturón de rata x7,Piel de rata ,7
+666,Zapatero,55,Cinturón de rata x7,Cerradura del cofre de los herreros ,14
+667,Zapatero,60,Coraza de las 1001 garras x12,Coxis de coralador ,84
+668,Zapatero,60,Coraza de las 1001 garras x12,Fragmento de espada reptiliana ,24
+669,Zapatero,60,Coraza de las 1001 garras x12,Piel de larva zafiro ,12
+670,Zapatero,60,Coraza de las 1001 garras x12,Piel de Shin Larva ,36
+671,Zapatero,68,Geta de Fuegodala x16,Huevo de dragohuevo carbonoso ,112
+672,Zapatero,68,Geta de Fuegodala x16,Bumerán de dok alako ,48
+673,Zapatero,68,Geta de Fuegodala x16,Concentrado de oquedal ,32
+674,Zapatero,68,Geta de Fuegodala x16,Pico de Kwoknan ,16
+675,Zapatero,68,Geta de Fuegodala x16,Pelos de koalak guinda ,160
+676,Zapatero,78,Cinturón de Nelwynn x1,Morros de mata ,2
+677,Zapatero,78,Cinturón de Nelwynn x1,Patita de colmillo blando ,7
+678,Zapatero,78,Cinturón de Nelwynn x1,Pelotita ,1
+679,Zapatero,78,Cinturón de Nelwynn x1,Matraz de humo de Nelwynn ,1
+680,Zapatero,78,Cinturón de Nelwynn x1,Concentrado de fajina ,1
+681,Zapatero,79,Cinturón de Crujidor Legendario x1,Piedra de crujidor ,8
+682,Zapatero,79,Cinturón de Crujidor Legendario x1,Carbón ,12
+683,Zapatero,79,Cinturón de Crujidor Legendario x1,Mega piedra de crujidor ,1
+684,Zapatero,79,Cinturón de Crujidor Legendario x1,Mega piedra del Crujidor Legendario ,1
+685,Zapatero,79,Cinturón de Crujidor Legendario x1,Concentrado de fajina ,1
+686,Zapatero,80,Tanga de yenaparda x28,Ojo de yenaparda ,364
+687,Zapatero,80,Tanga de yenaparda x28,Bola de bolapincho ,84
+688,Zapatero,80,Tanga de yenaparda x28,Arena fina ,84
+689,Zapatero,80,Tanga de yenaparda x28,Corazón de Mantícoro ,28
+690,Zapatero,80,Tanga de yenaparda x28,Concentrado de fajina ,56
+691,Zapatero,94,Zapatillas de Dragocerdo x8,Piel de cerdo de Farle ,200
+692,Zapatero,94,Zapatillas de Dragocerdo x8,Piel de don dórgano ,112
+693,Zapatero,94,Zapatillas de Dragocerdo x8,Piel de don dessangre ,120
+694,Zapatero,94,Zapatillas de Dragocerdo x8,Marfil ,40
+695,Zapatero,94,Zapatillas de Dragocerdo x8,Pelo de Dragocerdo ,8
+696,Zapatero,94,Zapatillas de Dragocerdo x8,Concentrado de bosquecillo ,8
+697,Zapatero,100,Zapatos Ginkel-Hy x14,Pluma de trasero de kido ,140
+698,Zapatero,100,Zapatos Ginkel-Hy x14,Cola emplumada de Rasgabola Mayor ,14
+699,Zapatero,100,Zapatos Ginkel-Hy x14,Ala de tufo de las llanuras ,140
+700,Zapatero,100,Zapatos Ginkel-Hy x14,Duvet de Kilibris ,280
+701,Zapatero,100,Zapatos Ginkel-Hy x14,Crines floridas ,28
+702,Zapatero,100,Zapatos Ginkel-Hy x14,Moustache de Mufafah ,280
+703,Zapatero,100,Zapatos Ginkel-Hy x14,Antena de antesoro ,280
+704,Zapatero,109,Cinturón del Minotauroro x2,Pelos del Minotauroro ,4
+705,Zapatero,109,Cinturón del Minotauroro x2,Bordado de Malefíscof ,6
+706,Zapatero,109,Cinturón del Minotauroro x2,Piel de mino ,12
+707,Zapatero,109,Cinturón del Minotauroro x2,Lengua de krameleón ,10
+708,Zapatero,109,Cinturón del Minotauroro x2,Piel de minoskito ,30
+709,Zapatero,109,Cinturón del Minotauroro x2,Turmalina ,6
+710,Zapatero,109,Cinturón del Minotauroro x2,Concentrado de bosquecillo ,4
+711,Zapatero,111,Abratura Ancestral x4,Turmalina ,12
+712,Zapatero,111,Abratura Ancestral x4,Kriptonita ,4
+713,Zapatero,111,Abratura Ancestral x4,Yema de Abráknido Ancestral ,1
+714,Zapatero,111,Abratura Ancestral x4,Calzoncillo agujereado de Dramak ,4
+715,Zapatero,111,Abratura Ancestral x4,Arakna espachurrada ,8
+716,Zapatero,111,Abratura Ancestral x4,Tela de abrakno oscuro ,16
+717,Zapatero,111,Abratura Ancestral x4,Ámbar de abráknido oscuro ,16
+718,Zapatero,114,Cinturón abdominable x2,Pelo de minovillo ,32
+719,Zapatero,114,Cinturón abdominable x2,Pelo de zorrowapo ,34
+720,Zapatero,114,Cinturón abdominable x2,Crines de Rata Negra ,8
+721,Zapatero,114,Cinturón abdominable x2,Glándula de Piojoporojo ,4
+722,Zapatero,114,Cinturón abdominable x2,Turmalina ,6
+723,Zapatero,114,Cinturón abdominable x2,Caparazón de escarato ,32
+724,Zapatero,114,Cinturón abdominable x2,Guijarro lunar ,4
+725,Zapatero,116,Sandalias Fatales x1,Néctar del oriente ,6
+726,Zapatero,116,Sandalias Fatales x1,Plumón del Maestro Cuerbok ,3
+727,Zapatero,116,Sandalias Fatales x1,Brote explosivo de Kodámade ,4
+728,Zapatero,116,Sandalias Fatales x1,Tupé de tofuito feo ,2
+729,Zapatero,116,Sandalias Fatales x1,Trama dimensional ,3
+730,Zapatero,116,Sandalias Fatales x1,Concentrado de espesura ,1
+731,Zapatero,116,Sandalias Fatales x1,Pelo de trooléolé ,13
+732,Zapatero,117,Ceinture de l'Amant d’Ha x1,Kesitufo ,1
+733,Zapatero,117,Ceinture de l'Amant d’Ha x1,Lana del trool airado ,4
+734,Zapatero,117,Ceinture de l'Amant d’Ha x1,Kriptonita ,1
+735,Zapatero,117,Ceinture de l'Amant d’Ha x1,Crines de trooloko ,18
+736,Zapatero,117,Ceinture de l'Amant d’Ha x1,Plumón del Maestro Cuerbok ,3
+737,Zapatero,117,Ceinture de l'Amant d’Ha x1,Guijarro lunar ,2
+738,Zapatero,117,Ceinture de l'Amant d’Ha x1,Pelos del Minotauroro ,3
+739,Zapatero,118,Botas de Jalamut Real x2,Lana de Jalamut Real ,6
+740,Zapatero,118,Botas de Jalamut Real x2,Cola de Jalamut Real ,2
+741,Zapatero,118,Botas de Jalamut Real x2,Piel de Cocabulia ,6
+742,Zapatero,118,Botas de Jalamut Real x2,Lana de jalamut ,38
+743,Zapatero,118,Botas de Jalamut Real x2,Queue du Jalamut ,10
+744,Zapatero,118,Botas de Jalamut Real x2,Cuerno de jalamut de guerra ,34
+745,Zapatero,118,Botas de Jalamut Real x2,Guijarro lunar ,4
+746,Zapatero,120,Cinturón Cuerbakial x6,Pluma de cuerbok domesticado ,96
+747,Zapatero,120,Cinturón Cuerbakial x6,Plumón del Maestro Cuerbok ,18
+748,Zapatero,120,Cinturón Cuerbakial x6,Corazón de bebedor ,6
+749,Zapatero,120,Cinturón Cuerbakial x6,Turmalina ,18
+750,Zapatero,120,Cinturón Cuerbakial x6,Concentrado de bosquecillo ,12
+751,Zapatero,120,Cinturón Cuerbakial x6,Pelo de Skonk ,18
+752,Zapatero,120,Cinturón Cuerbakial x6,Piel de Cocabulia ,18
+753,Zapatero,125,Xenatura x1,Cuero de Capsálocke ,2
+754,Zapatero,125,Xenatura x1,Kesitufo ,1
+755,Zapatero,125,Xenatura x1,Máscara de shinibaru ,6
+756,Zapatero,125,Xenatura x1,Lana del trool airado ,6
+757,Zapatero,125,Xenatura x1,Kuakuá de bain de Nagate ,3
+758,Zapatero,125,Xenatura x1,Testículos del Tanukui San ,2
+759,Zapatero,125,Xenatura x1,Kriptonita ,2
+760,Zapatero,125,Xenatura x1,Guijarro lunar ,2
+761,Zapatero,126,Cinturón claro de abrajidor x2,Ámbar de Tynril ,2
+762,Zapatero,126,Cinturón claro de abrajidor x2,Pluma vibrante de Tofu Real ,2
+763,Zapatero,126,Cinturón claro de abrajidor x2,Kesitufo ,2
+764,Zapatero,126,Cinturón claro de abrajidor x2,Coco de tufo aéreo ,10
+765,Zapatero,126,Cinturón claro de abrajidor x2,Nudo de abrajidor claro ,12
+766,Zapatero,126,Cinturón claro de abrajidor x2,Tocón de abrajidor claro ,42
+767,Zapatero,126,Cinturón claro de abrajidor x2,Turmalina ,6
+768,Zapatero,126,Cinturón claro de abrajidor x2,Concentrado de espesura ,4
+769,Zapatero,128,Cinturón oscuro de abrajidor x2,Ámbar de Tynril ,2
+770,Zapatero,128,Cinturón oscuro de abrajidor x2,Piel de Cocabulia ,6
+771,Zapatero,128,Cinturón oscuro de abrajidor x2,Cola emplumada de Rasgabola Mayor ,2
+772,Zapatero,128,Cinturón oscuro de abrajidor x2,Amígdalas de tufo oscuro ,52
+773,Zapatero,128,Cinturón oscuro de abrajidor x2,Talon d'achille de l’ Abrajidor oscuro ,10
+774,Zapatero,128,Cinturón oscuro de abrajidor x2,Grano de abrajidor oscuro ,46
+775,Zapatero,128,Cinturón oscuro de abrajidor x2,Turmalina ,6
+776,Zapatero,128,Cinturón oscuro de abrajidor x2,Concentrado de espesura ,4
+777,Zapatero,130,Cuerda Sura x8,Talon d'achille de l’ Abrajidor oscuro ,16
+778,Zapatero,130,Cuerda Sura x8,Bractea de la marguerrita ,240
+779,Zapatero,130,Cuerda Sura x8,Cáliz de diente pe-león ,192
+780,Zapatero,130,Cuerda Sura x8,Sépalo de nierba ,224
+781,Zapatero,130,Cuerda Sura x8,Carpelo de esquejika ,144
+782,Zapatero,130,Cuerda Sura x8,Estambre de floribundo ,160
+783,Zapatero,130,Cuerda Sura x8,Ámbar de Tynril ,8
+784,Zapatero,130,Cuerda Sura x8,Cuerno de balíbido ,160
+785,Zapatero,136,Botines de madera de abrajidor x8,Ámbar de Tynril ,8
+786,Zapatero,136,Botines de madera de abrajidor x8,Cuerno roto de Cocabulia ,8
+787,Zapatero,136,Botines de madera de abrajidor x8,Plumón del Maestro Cuerbok ,24
+788,Zapatero,136,Botines de madera de abrajidor x8,Trasero de tufo aéreo ,176
+789,Zapatero,136,Botines de madera de abrajidor x8,Nudo de abrajidor claro ,48
+790,Zapatero,136,Botines de madera de abrajidor x8,Tocón de abrajidor claro ,174
+791,Zapatero,136,Botines de madera de abrajidor x8,Trama dimensional ,24
+792,Zapatero,136,Botines de madera de abrajidor x8,Concentrado de bosque ,8
+793,Zapatero,141,Tanga otoñal de Roble Blando x11,Raíz de Roble Blando ,22
+794,Zapatero,141,Tanga otoñal de Roble Blando x11,Palillos para el pelo de Shihan ,33
+795,Zapatero,141,Tanga otoñal de Roble Blando x11,Mecha rebelde de Hell Mina ,11
+796,Zapatero,141,Tanga otoñal de Roble Blando x11,Máscara de araknotrón irascible rota ,77
+797,Zapatero,141,Tanga otoñal de Roble Blando x11,Mandíbula de abrakno irascible ,22
+798,Zapatero,141,Tanga otoñal de Roble Blando x11,Hoja de rama curadora ,66
+799,Zapatero,141,Tanga otoñal de Roble Blando x11,Turmalina ,66
+800,Zapatero,141,Tanga otoñal de Roble Blando x11,Trama dimensional ,66
+801,Zapatero,149,Cinturón del Minotot x3,Etmoides de Minotot ,6
+802,Zapatero,149,Cinturón del Minotot x3,Cuerno quemado del Minotauroro ,3
+803,Zapatero,149,Cinturón del Minotot x3,Cola mágica de Funoroshi ,6
+804,Zapatero,149,Cinturón del Minotot x3,Piel de mino ,24
+805,Zapatero,149,Cinturón del Minotot x3,Cuerno de deminobola ,6
+806,Zapatero,149,Cinturón del Minotot x3,Vendas de mominotauro ,18
+807,Zapatero,149,Cinturón del Minotot x3,Turmalina ,18
+808,Zapatero,149,Cinturón del Minotot x3,Concentrado de bosque ,6
+809,Zapatero,152,Botas de Perfósil x9,Trama dimensional ,54
+810,Zapatero,152,Botas de Perfósil x9,Guijarro solar ,9
+811,Zapatero,152,Botas de Perfósil x9,Colmillo de Perfósil ,36
+812,Zapatero,152,Botas de Perfósil x9,Fémur de Sfinter Cell ,36
+813,Zapatero,152,Botas de Perfósil x9,Kamatrix ,90
+814,Zapatero,152,Botas de Perfósil x9,Cola de mamatroz ,63
+815,Zapatero,152,Botas de Perfósil x9,Garra de perfugaz ,288
+816,Zapatero,152,Botas de Perfósil x9,Ámbar de Roble Blando ,9
+817,Zapatero,158,Cinturón de kanublú x1,Guijarro solar ,1
+818,Zapatero,158,Cinturón de kanublú x1,Concentrado de bosque primario ,1
+819,Zapatero,158,Cinturón de kanublú x1,Cola de Kanígrula ,4
+820,Zapatero,158,Cinturón de kanublú x1,Ámbar de Tynril ,1
+821,Zapatero,158,Cinturón de kanublú x1,Bigote de Shogun Tofugawa ,2
+822,Zapatero,158,Cinturón de kanublú x1,Tejido de kanublú ,7
+823,Zapatero,158,Cinturón de kanublú x1,Cadena de tigredón ,34
+824,Zapatero,158,Cinturón de kanublú x1,Garra de highiena ,33
+825,Zapatero,159,Sandalia Lambique x1,Testículos del Tanukui San ,3
+826,Zapatero,159,Sandalia Lambique x1,Mecha rebelde de Hell Mina ,3
+827,Zapatero,159,Sandalia Lambique x1,Cola mágica de Funoroshi ,2
+828,Zapatero,159,Sandalia Lambique x1,Tejido de firefux ,8
+829,Zapatero,159,Sandalia Lambique x1,Pelos de bumbardero ,31
+830,Zapatero,159,Sandalia Lambique x1,Guijarro solar ,1
+831,Zapatero,159,Sandalia Lambique x1,Piel de escupefux ,25
+832,Zapatero,159,Sandalia Lambique x1,Concentrado de bosque primario ,1
+833,Zapatero,160,Sandalias del Minotot x14,Etmoides de Minotot ,28
+834,Zapatero,160,Sandalias del Minotot x14,Pelos del Minotauroro ,28
+835,Zapatero,160,Sandalias del Minotot x14,Calcetín del Kimbo ,14
+836,Zapatero,160,Sandalias del Minotot x14,Piel de mino ,112
+837,Zapatero,160,Sandalias del Minotot x14,Cuero de deminobola ,84
+838,Zapatero,160,Sandalias del Minotot x14,Vendas de mominotauro ,84
+839,Zapatero,160,Sandalias del Minotot x14,Turmalina ,84
+840,Zapatero,160,Sandalias del Minotot x14,Concentrado de bosque primario ,28
+841,Zapatero,169,Bottines Herties x5,Fémur de Sfinter Cell ,20
+842,Zapatero,169,Bottines Herties x5,Lágrima de gélifux ,45
+843,Zapatero,169,Bottines Herties x5,Lana de yokai gélifux ,200
+844,Zapatero,169,Bottines Herties x5,Lana de Tengu Gélifux ,20
+845,Zapatero,169,Bottines Herties x5,Concentrado de bosque primario ,10
+846,Zapatero,169,Bottines Herties x5,Córnea de kami gélifux ,10
+847,Zapatero,169,Bottines Herties x5,Trama dimensional ,45
+848,Zapatero,169,Bottines Herties x5,Cuerno de XLII ,10
+849,Zapatero,173,Botas de Tengu Gélifux x7,Lana de Tengu Gélifux ,21
+850,Zapatero,173,Botas de Tengu Gélifux x7,Tejido de Sfinter Cell ,7
+851,Zapatero,173,Botas de Tengu Gélifux x7,Escoria de Obsidiantre ,28
+852,Zapatero,173,Botas de Tengu Gélifux x7,Lágrima de gélifux ,63
+853,Zapatero,173,Botas de Tengu Gélifux x7,Tibia de yomi gélifux ,245
+854,Zapatero,173,Botas de Tengu Gélifux x7,Lana de maho gélifux ,280
+855,Zapatero,173,Botas de Tengu Gélifux x7,Turmalina ,63
+856,Zapatero,173,Botas de Tengu Gélifux x7,Concentrado de bosque tropical ,7
+857,Zapatero,179,Rodaja del sotobosque x6,Espina de Ugah ,24
+858,Zapatero,179,Rodaja del sotobosque x6,Vértebra de Obsidiantre ,6
+859,Zapatero,179,Rodaja del sotobosque x6,Ojo de Anelidón ,6
+860,Zapatero,179,Rodaja del sotobosque x6,Fibra de cáñamo ,54
+861,Zapatero,179,Rodaja del sotobosque x6,Corteza de champáknido ,234
+862,Zapatero,179,Rodaja del sotobosque x6,Lamela de champbis ,282
+863,Zapatero,179,Rodaja del sotobosque x6,Turmalina ,54
+864,Zapatero,179,Rodaja del sotobosque x6,Concentrado de bosque tropical ,6
+865,Zapatero,184,Botas Plastao x1,Pañuelo agujereado de fuego ,61
+866,Zapatero,184,Botas Plastao x1,Calzoncillos azules ,8
+867,Zapatero,184,Botas Plastao x1,Forúnculo de mamá bwork ,54
+868,Zapatero,184,Botas Plastao x1,Uña de Bworker ,3
+869,Zapatero,184,Botas Plastao x1,Ojo de Anelidón ,3
+870,Zapatero,184,Botas Plastao x1,Fragmento de Ugahlureta ,1
+871,Zapatero,184,Botas Plastao x1,Turmalina ,12
+872,Zapatero,184,Botas Plastao x1,Concentrado de bosque tropical ,2
+873,Zapatero,185,Cinturón de Boreal x12,Cuero de Tengu Gélifux ,12
+874,Zapatero,185,Cinturón de Boreal x12,Lana de Tengu Gélifux ,48
+875,Zapatero,185,Cinturón de Boreal x12,Sangre de Toxoliat ,48
+876,Zapatero,185,Cinturón de Boreal x12,Concentrado de bosque tropical ,24
+877,Zapatero,185,Cinturón de Boreal x12,Turmalina ,144
+878,Zapatero,185,Cinturón de Boreal x12,Córnea de kami gélifux ,24
+879,Zapatero,185,Cinturón de Boreal x12,Cráneo de yokai gélifux ,108
+880,Zapatero,185,Cinturón de Boreal x12,Cuero de maho gélifux ,108
+881,Zapatero,193,Zapatos del conde Razof x2,Hueso de nemroza ,110
+882,Zapatero,193,Zapatos del conde Razof x2,Sangre de carghnicero ,26
+883,Zapatero,193,Zapatos del conde Razof x2,Botella de Botsgüena ,20
+884,Zapatero,193,Zapatos del conde Razof x2,Pelos del conde Razof ,8
+885,Zapatero,193,Zapatos del conde Razof x2,Cola de Golosotrón Real ,6
+886,Zapatero,193,Zapatos del conde Razof x2,Cuero de Fuji Gélifux ,6
+887,Zapatero,193,Zapatos del conde Razof x2,Concentrado de selva ,2
+888,Zapatero,193,Zapatos del conde Razof x2,Turmalina ,24
+889,Zapatero,195,Sandalias Luzas x3,Canino de xakal ,168
+890,Zapatero,195,Sandalias Luzas x3,Garra de kanitómata ,24
+891,Zapatero,195,Sandalias Luzas x3,Incisivo de Sylargh ,3
+892,Zapatero,195,Sandalias Luzas x3,Bordado de Nileza ,9
+893,Zapatero,195,Sandalias Luzas x3,Polvos glaciales ,6
+894,Zapatero,195,Sandalias Luzas x3,Concentrado de selva ,3
+895,Zapatero,195,Sandalias Luzas x3,Turmalina ,36
+896,Zapatero,195,Sandalias Luzas x3,Raíz cristalizada ,3
+897,Zapatero,198,Botas traicioneras x1,Cuero de cuerubugui ,48
+898,Zapatero,198,Botas traicioneras x1,Corazón de cuerastro ,8
+899,Zapatero,198,Botas traicioneras x1,Concentrado de selva ,1
+900,Zapatero,198,Botas traicioneras x1,Cuero cabelludo de Klim ,1
+901,Zapatero,198,Botas traicioneras x1,Lana de Sylargh ,3
+902,Zapatero,198,Botas traicioneras x1,Sangre de Toxoliat ,3
+903,Zapatero,198,Botas traicioneras x1,Cremallera ,1
+904,Zapatero,198,Botas traicioneras x1,Turmalina ,12
+905,Zapatero,199,Botas de Nileza x1,Canino de xakal ,51
+906,Zapatero,199,Botas de Nileza x1,Pico de dodoxal ,9
+907,Zapatero,199,Botas de Nileza x1,Turmalina ,12
+908,Zapatero,199,Botas de Nileza x1,Bordado de Nileza ,4
+909,Zapatero,199,Botas de Nileza x1,Bragas de Mizz Frizz ,1
+910,Zapatero,199,Botas de Nileza x1,Polvos glaciales ,3
+911,Zapatero,199,Botas de Nileza x1,Raíz cristalizada ,1
+912,Zapatero,199,Botas de Nileza x1,Trama dimensional ,12
+913,Fabricante,0,El Halt Efkuat x13,Tabla de aglomerado ,13
+914,Fabricante,0,El Halt Efkuat x13,Carne intangible ,26
+915,Fabricante,5,Escudo del girasol salvaje x9,Tabla de aglomerado ,9
+916,Fabricante,5,Escudo del girasol salvaje x9,Pétalo diáfano ,18
+917,Fabricante,10,Escudo cometa x8,Tabla de aglomerado ,8
+918,Fabricante,10,Escudo cometa x8,Pelos de arakna enferma ,24
+919,Fabricante,15,Escudo tombariano x7,Tabla de aglomerado ,7
+920,Fabricante,15,Escudo tombariano x7,Crin de miserata strubiense ,14
+921,Fabricante,20,Escudo de jalató x7,Lana de jalató ,21
+922,Fabricante,20,Escudo de jalató x7,Lana de jalatín negro ,21
+923,Fabricante,25,Escudo de esponja x7,Piel de Mob Lasponja ,21
+924,Fabricante,25,Escudo de esponja x7,Fluido glacial ,14
+925,Fabricante,25,Escudo de esponja x7,Escama pegajosa ,28
+926,Fabricante,30,Coraza real de jalató x6,Lana de Jalató Real ,6
+927,Fabricante,30,Coraza real de jalató x6,Cuero de Jalató Real ,12
+928,Fabricante,30,Coraza real de jalató x6,Sangre de jalató ,12
+929,Fabricante,35,Escudo erizado de prespic x7,Pincho de prespic ,28
+930,Fabricante,35,Escudo erizado de prespic x7,Concentrado de boscaje ,7
+931,Fabricante,35,Escudo erizado de prespic x7,Tejido de jabalí ,14
+932,Fabricante,40,Escudo Akwadala x6,Lengua de estrella ,6
+933,Fabricante,40,Escudo Akwadala x6,Concentrado de boscaje ,12
+934,Fabricante,40,Escudo Akwadala x6,Bulbo de kuraçao ,30
+935,Fabricante,45,Escudo abráknido x7,Raíz de abráknido ,49
+936,Fabricante,45,Escudo abráknido x7,Concentrado de boscaje ,14
+937,Fabricante,45,Escudo abráknido x7,Mostacho de Boostacho ,7
+938,Fabricante,45,Escudo abráknido x7,Fémur de chafer arquero ,7
+939,Fabricante,50,Escudo Fi'Squal x6,Concentrado de oquedal ,6
+940,Fabricante,50,Escudo Fi'Squal x6,Pescado empanado ,300
+941,Fabricante,50,Escudo Fi'Squal x6,Coxis de coralador ,12
+942,Fabricante,50,Escudo Fi'Squal x6,Coxis Magistral ,18
+943,Fabricante,55,Klum x6,Hoja de blop real ,12
+944,Fabricante,55,Klum x6,Magnesita ,6
+945,Fabricante,55,Klum x6,Cuerno de bufalento ,42
+946,Fabricante,55,Klum x6,Garra de robionicle ,36
+947,Fabricante,60,Escudo del Báwbawo x4,Paño del Wey Wabbit ,4
+948,Fabricante,60,Escudo del Báwbawo x4,Concentrado de oquedal ,8
+949,Fabricante,60,Escudo del Báwbawo x4,Oreja de awelito wabbit ,16
+950,Fabricante,60,Escudo del Báwbawo x4,Zanahowia ,12
+951,Fabricante,63,Escudo de crujidor x9,Pluma de Kwoknan ,18
+952,Fabricante,63,Escudo de crujidor x9,Magnesita ,18
+953,Fabricante,63,Escudo de crujidor x9,Diente de oro de crujidor ,18
+954,Fabricante,63,Escudo de crujidor x9,Carbón ,36
+955,Fabricante,63,Escudo de crujidor x9,Piedra de crujidor ,81
+956,Fabricante,70,Escudo de jefe cocodrail x17,Fragmento de espada reptiliana ,34
+957,Fabricante,70,Escudo de jefe cocodrail x17,Hueso de cocodrail ,68
+958,Fabricante,70,Escudo de jefe cocodrail x17,Escama de jefe cocodrail ,255
+959,Fabricante,70,Escudo de jefe cocodrail x17,Bakelitita ,17
+960,Fabricante,70,Escudo de jefe cocodrail x17,Diente de cocodrail ,102
+961,Fabricante,80,Escudo de Sidimote x50,Matraz de humo de Nelwynn ,50
+962,Fabricante,80,Escudo de Sidimote x50,Bakelitita ,100
+963,Fabricante,80,Escudo de Sidimote x50,Tejido de orondo ,200
+964,Fabricante,80,Escudo de Sidimote x50,Ojo de kanugro ,200
+965,Fabricante,80,Escudo de Sidimote x50,Bastón de awelito wabbit blanco ,150
+966,Fabricante,100,Copa de Dragokart x6,Cáscara de dragoss pizarroso ,36
+967,Fabricante,100,Copa de Dragokart x6,Pelos de Kerubim ,150
+968,Fabricante,100,Copa de Dragokart x6,Guijarro lunar ,6
+969,Fabricante,100,Copa de Dragokart x6,Calzoncillo agujereado de Dramak ,6
+970,Fabricante,100,Copa de Dragokart x6,Kuarzo ,12
+971,Fabricante,100,Copa de Dragokart x6,Bordado de Malefíscof ,18
+972,Fabricante,105,Escudo Rano x6,Turmalina ,18
+973,Fabricante,105,Escudo Rano x6,Cola emplumada de Rasgabola Mayor ,6
+974,Fabricante,105,Escudo Rano x6,Concentrado de bosquecillo ,12
+975,Fabricante,105,Escudo Rano x6,Pluma de gobvio ,108
+976,Fabricante,105,Escudo Rano x6,Piel de koalak cabalgador ,84
+977,Fabricante,105,Escudo Rano x6,Plumón del Maestro Cuerbok ,12
+978,Fabricante,105,Escudo Rano x6,Dientes de milubo ,36
+979,Fabricante,110,Bulbescudo x7,Espina de bulbomatorral ,119
+980,Fabricante,110,Bulbescudo x7,Polen de bulbiflor ,28
+981,Fabricante,110,Bulbescudo x7,Néctar del oriente ,42
+982,Fabricante,110,Bulbescudo x7,Brote explosivo de Kodámade ,21
+983,Fabricante,110,Bulbescudo x7,Trenza de Trankitronko ,21
+984,Fabricante,110,Bulbescudo x7,Guijarro rutilante ,14
+985,Fabricante,110,Bulbescudo x7,Artefacto pandawushu de madera ,42
+986,Fabricante,115,Pupitre de Virgilio x6,Turmalina ,18
+987,Fabricante,115,Pupitre de Virgilio x6,Concentrado de espesura ,6
+988,Fabricante,115,Pupitre de Virgilio x6,Plumón del Maestro Cuerbok ,18
+989,Fabricante,115,Pupitre de Virgilio x6,Pluma de bebedor ,90
+990,Fabricante,115,Pupitre de Virgilio x6,Pelo de zorrowapo ,84
+991,Fabricante,115,Pupitre de Virgilio x6,Pluma de cuerbok domesticado ,114
+992,Fabricante,115,Pupitre de Virgilio x6,Cabellera de Maxilubo ,18
+993,Fabricante,120,Escudo slip x6,Turmalina ,18
+994,Fabricante,120,Escudo slip x6,Mawashi de elsumo ,18
+995,Fabricante,120,Escudo slip x6,Concentrado de espesura ,12
+996,Fabricante,120,Escudo slip x6,Piel de Cocabulia ,24
+997,Fabricante,120,Escudo slip x6,Entrada de concierto de Diamantina ,6
+998,Fabricante,120,Escudo slip x6,Calzoncillo de trooloko ,30
+999,Fabricante,120,Escudo slip x6,Corazón del Capitán Eskarlata ,12
+1000,Fabricante,125,Escudo de los salteadorillos x6,Guijarro lunar ,12
+1001,Fabricante,125,Escudo de los salteadorillos x6,Concentrado de espesura ,12
+1002,Fabricante,125,Escudo de los salteadorillos x6,Huevo de Thor Pestruz ,6
+1003,Fabricante,125,Escudo de los salteadorillos x6,Pata de grullestruz ,36
+1004,Fabricante,125,Escudo de los salteadorillos x6,Pluma de Tofu Real ,18
+1005,Fabricante,125,Escudo de los salteadorillos x6,Ábaco zoth ,108
+1006,Fabricante,125,Escudo de los salteadorillos x6,Ahumador zoth ,156
+1007,Fabricante,125,Escudo de los salteadorillos x6,Cola emplumada de Rasgabola Mayor ,6
+1008,Fabricante,130,Escudo del sadida x6,Trama dimensional ,18
+1009,Fabricante,130,Escudo del sadida x6,Piel de Skonk ,6
+1010,Fabricante,130,Escudo del sadida x6,Concentrado de bosque ,6
+1011,Fabricante,130,Escudo del sadida x6,Diario intimo de Esmeralda ,12
+1012,Fabricante,130,Escudo del sadida x6,Boomerang estropeado de Diamantina ,36
+1013,Fabricante,130,Escudo del sadida x6,Manojo de pelos de Ruby ,36
+1014,Fabricante,130,Escudo del sadida x6,Champú de kalipto de Zafira ,12
+1015,Fabricante,130,Escudo del sadida x6,Pelo de Skonk ,18
+1016,Fabricante,135,Ariete del Jalamut Real x6,Trama dimensional ,18
+1017,Fabricante,135,Ariete del Jalamut Real x6,Kobalita ,6
+1018,Fabricante,135,Ariete del Jalamut Real x6,Corazón del Capitán Eskarlata ,12
+1019,Fabricante,135,Ariete del Jalamut Real x6,Lana de Jalamut Real ,18
+1020,Fabricante,135,Ariete del Jalamut Real x6,Cuerno de jalamut de guerra ,156
+1021,Fabricante,135,Ariete del Jalamut Real x6,Lana de jalamut legendario ,144
+1022,Fabricante,135,Ariete del Jalamut Real x6,Clavícula de jalamut ,36
+1023,Fabricante,135,Ariete del Jalamut Real x6,Flor de Blop Multicolor Real ,6
+1024,Fabricante,140,Escudo ventiloso x6,Trama dimensional ,18
+1025,Fabricante,140,Escudo ventiloso x6,Kobalita ,12
+1026,Fabricante,140,Escudo ventiloso x6,Ámbar de Tynril ,6
+1027,Fabricante,140,Escudo ventiloso x6,Grano de abrajidor oscuro ,150
+1028,Fabricante,140,Escudo ventiloso x6,Pinza de fanclasma ,138
+1029,Fabricante,140,Escudo ventiloso x6,Corteza de marguerrita ,18
+1030,Fabricante,140,Escudo ventiloso x6,Hoja de Blop Multicolor Real ,24
+1031,Fabricante,140,Escudo ventiloso x6,Pistilo de Tynril ,18
+1032,Fabricante,145,Escudo del Monte Puaj x6,Trama dimensional ,36
+1033,Fabricante,145,Escudo del Monte Puaj x6,Concentrado de bosque ,12
+1034,Fabricante,145,Escudo del Monte Puaj x6,Ámbar de Roble Blando ,6
+1035,Fabricante,145,Escudo del Monte Puaj x6,Correa de cuero de baglitch ,36
+1036,Fabricante,145,Escudo del Monte Puaj x6,Cuerno de balíbido ,42
+1037,Fabricante,145,Escudo del Monte Puaj x6,Pezuña de balisisco ,36
+1038,Fabricante,145,Escudo del Monte Puaj x6,Huevo de Morsagüino Real ,6
+1039,Fabricante,145,Escudo del Monte Puaj x6,Mecha rebelde de Hell Mina ,18
+1040,Fabricante,150,Escudo pandawa x6,Artefacto pandawushu ,24
+1041,Fabricante,150,Escudo pandawa x6,Concentrado de bosque primario ,6
+1042,Fabricante,150,Escudo pandawa x6,Bufanda de Hanshi ,12
+1043,Fabricante,150,Escudo pandawa x6,Brote explosivo de Kodámade ,30
+1044,Fabricante,150,Escudo pandawa x6,Kuakuá de bain de Nagate ,24
+1045,Fabricante,150,Escudo pandawa x6,Testículos del Tanukui San ,18
+1046,Fabricante,150,Escudo pandawa x6,Palillos para el pelo de Shihan ,12
+1047,Fabricante,150,Escudo pandawa x6,Cola mágica de Funoroshi ,12
+1048,Fabricante,155,Escudo taberna x6,Guijarro solar ,6
+1049,Fabricante,155,Escudo taberna x6,Concentrado de bosque primario ,6
+1050,Fabricante,155,Escudo taberna x6,Omóplato de Ben el Ripata ,6
+1051,Fabricante,155,Escudo taberna x6,Flotador de fantombrealagua ,42
+1052,Fabricante,155,Escudo taberna x6,Colmillo de balisisco ,228
+1053,Fabricante,155,Escudo taberna x6,Oreja de kanublú ,204
+1054,Fabricante,155,Escudo taberna x6,Bigotes de Ush ,12
+1055,Fabricante,155,Escudo taberna x6,Pelo de Ben el Ripata ,18
+1056,Fabricante,160,Pupila de majaro x6,Guijarro reluciente ,12
+1057,Fabricante,160,Pupila de majaro x6,Artefacto pandawushu ,24
+1058,Fabricante,160,Pupila de majaro x6,Ojo de majaro ,210
+1059,Fabricante,160,Pupila de majaro x6,Bigote de Shogun Tofugawa ,12
+1060,Fabricante,160,Pupila de majaro x6,Brasas azuladas ,18
+1061,Fabricante,160,Pupila de majaro x6,Yokaiedra ,48
+1062,Fabricante,160,Pupila de majaro x6,Farol usado ,186
+1063,Fabricante,160,Pupila de majaro x6,Cola mágica de Funoroshi ,12
+1064,Fabricante,165,Esfera de tierra x6,Tejido misterioso ,36
+1065,Fabricante,165,Esfera de tierra x6,Rutilo ,12
+1066,Fabricante,165,Esfera de tierra x6,Cola de Kanígrula ,6
+1067,Fabricante,165,Esfera de tierra x6,Bigotes de Ush ,12
+1068,Fabricante,165,Esfera de tierra x6,Cabellera de alhiena ,240
+1069,Fabricante,165,Esfera de tierra x6,Tejido de kanublú ,60
+1070,Fabricante,165,Esfera de tierra x6,Artefacto pandawushu de roca ,300
+1071,Fabricante,165,Esfera de tierra x6,Omóplato de Ben el Ripata ,6
+1072,Fabricante,170,Esfera de aire x6,Tejido misterioso ,36
+1073,Fabricante,170,Esfera de aire x6,Piruta ,6
+1074,Fabricante,170,Esfera de aire x6,Bigote de Shogun Tofugawa ,12
+1075,Fabricante,170,Esfera de aire x6,Tejido de samurái fantasma ,54
+1076,Fabricante,170,Esfera de aire x6,Medialuna de tsukinoichi ,228
+1077,Fabricante,170,Esfera de aire x6,Omóplato de Ben el Ripata ,6
+1078,Fabricante,170,Esfera de aire x6,Lana de Tengu Gélifux ,18
+1079,Fabricante,170,Esfera de aire x6,Artefacto pandawushu de viento ,300
+1080,Fabricante,175,Esfera de fuego x6,Tejido misterioso ,36
+1081,Fabricante,175,Esfera de fuego x6,Piruta ,6
+1082,Fabricante,175,Esfera de fuego x6,Escoria de Obsidiantre ,12
+1083,Fabricante,175,Esfera de fuego x6,Piedra de fumarola ,60
+1084,Fabricante,175,Esfera de fuego x6,Toba de mofeta ,12
+1085,Fabricante,175,Esfera de fuego x6,Artefacto pandawushu de fuego ,300
+1086,Fabricante,175,Esfera de fuego x6,Mecha rebelde de Hell Mina ,24
+1087,Fabricante,175,Esfera de fuego x6,Brasas azuladas ,24
+1088,Fabricante,180,Zarzal x6,Tejido misterioso ,36
+1089,Fabricante,180,Zarzal x6,Concentrado de bosque tropical ,12
+1090,Fabricante,180,Zarzal x6,Escoria de Obsidiantre ,18
+1091,Fabricante,180,Zarzal x6,Corazón de ventozador ,276
+1092,Fabricante,180,Zarzal x6,Tefra de atomístico ,42
+1093,Fabricante,180,Zarzal x6,Residuo de solfatara ,234
+1094,Fabricante,180,Zarzal x6,Piel de Bworker ,6
+1095,Fabricante,180,Zarzal x6,Cola de Kanígrula ,6
+1096,Fabricante,185,La Rodaja x6,Trama dimensional ,72
+1097,Fabricante,185,La Rodaja x6,Concentrado de bosque tropical ,12
+1098,Fabricante,185,La Rodaja x6,Piel de Bworker ,6
+1099,Fabricante,185,La Rodaja x6,Zanahowia ,600
+1100,Fabricante,185,La Rodaja x6,Barba de sieth ,324
+1101,Fabricante,185,La Rodaja x6,Forúnculo de mamá bwork ,378
+1102,Fabricante,185,La Rodaja x6,Ojo de Anelidón ,18
+1103,Fabricante,185,La Rodaja x6,Cuerno de XLII ,18
+1104,Fabricante,190,Escudo del cerrajero x4,Ardonita ,4
+1105,Fabricante,190,Escudo del cerrajero x4,Trama dimensional ,48
+1106,Fabricante,190,Escudo del cerrajero x4,Kamatrix ,40
+1107,Fabricante,190,Escudo del cerrajero x4,Colmillo de Perfósil ,24
+1108,Fabricante,190,Escudo del cerrajero x4,Cerradura del cofre de los herreros ,80
+1109,Fabricante,190,Escudo del cerrajero x4,Corne du Papatroz ,244
+1110,Fabricante,190,Escudo del cerrajero x4,Piel de metaforatroz ,252
+1111,Fabricante,190,Escudo del cerrajero x4,Ojo de Anelidón ,12
+1112,Fabricante,193,Cuadrifolio x9,Trébol de 5 hojas ,3600
+1113,Fabricante,193,Cuadrifolio x9,Concentrado de selva ,9
+1114,Fabricante,193,Cuadrifolio x9,Volva de galerina ,477
+1115,Fabricante,193,Cuadrifolio x9,Pedúnculo de hongador ,72
+1116,Fabricante,193,Cuadrifolio x9,Lamela de dramanita ,459
+1117,Fabricante,193,Cuadrifolio x9,Bragas de Mizz Frizz ,9
+1118,Fabricante,193,Cuadrifolio x9,Ojo de Cil ,9
+1119,Fabricante,193,Cuadrifolio x9,Sangre de Toxoliat ,27
+1120,Herrero,0,Cuchillo de caza x31,Polvos mágicos ,93
+1121,Herrero,0,Cuchillo de caza x31,Lana celeste ,93
+1122,Herrero,7,Dagas de maderucha x8,Reliquia de Incarnam ,24
+1123,Herrero,7,Dagas de maderucha x8,Cola de miaufián ,24
+1124,Herrero,12,Limpiadoras x1,Baba de rosa demoníaca ,1
+1125,Herrero,12,Limpiadoras x1,Pluma de pío rosa ,3
+1126,Herrero,13,La Cola x3,Écailles poisseuse ,3
+1127,Herrero,13,La Cola x3,Pétalo de girasol salvaje ,9
+1128,Herrero,15,Martillo de paliza x1,Ceja de moskito ,1
+1129,Herrero,15,Martillo de paliza x1,Pluma de pío verde ,3
+1130,Herrero,16,Hoja de gobletrotter x1,Piel de larva naranja ,3
+1131,Herrero,16,Hoja de gobletrotter x1,Lengua de espanterrador ,3
+1132,Herrero,17,Guadaña gastada de campesino x1,Pétalo mágico de Girasol Hambriento ,2
+1133,Herrero,17,Guadaña gastada de campesino x1,Flor del diente de león diabólico ,3
+1134,Herrero,18,Korta-Kotas x1,Pluma de pío verde ,3
+1135,Herrero,18,Korta-Kotas x1,Pétalo de girasol salvaje ,3
+1136,Herrero,19,Martillo de marfil x1,Baba de rosa demoníaca ,1
+1137,Herrero,19,Martillo de marfil x1,Pluma de pío rojo ,3
+1138,Herrero,20,Martillo de jalató x3,Lana de jalatín negro ,9
+1139,Herrero,20,Martillo de jalató x3,Lana de jefe de guerra jalató ,3
+1140,Herrero,23,Martillo Haimito x1,Pluma de pío rojo ,4
+1141,Herrero,23,Martillo Haimito x1,Pluma de pío rosa ,4
+1142,Herrero,23,Martillo Haimito x1,Semilla de girasol ,1
+1143,Herrero,24,Pala Patarta x1,Pluma de pío verde ,4
+1144,Herrero,24,Pala Patarta x1,Abono ,1
+1145,Herrero,24,Pala Patarta x1,Pluma de pío violeta ,4
+1146,Herrero,25,La Klebic x1,Ojo de arakmutada ,4
+1147,Herrero,25,La Klebic x1,Piel pachucha ,1
+1148,Herrero,25,La Klebic x1,Pico de tofu ,4
+1149,Herrero,26,Espada chifladora x1,Piel de larva verde ,4
+1150,Herrero,26,Espada chifladora x1,Semilla de adormidera ,4
+1151,Herrero,26,Espada chifladora x1,Pétalo de girasol salvaje ,4
+1152,Herrero,27,Cuchilla de chafer x3,Cráneo de chafer ,3
+1153,Herrero,27,Cuchilla de chafer x3,Pluma de pío violeta ,12
+1154,Herrero,27,Cuchilla de chafer x3,Pluma de pío rojo ,12
+1155,Herrero,29,Pala de crujidor x1,Bronceador ,4
+1156,Herrero,29,Pala de crujidor x1,Flor del diente de león diabólico ,4
+1157,Herrero,29,Pala de crujidor x1,Caracola marina ,4
+1158,Herrero,30,Daga Yumbo x1,Semilla de girasol ,1
+1159,Herrero,30,Daga Yumbo x1,Piel de larva naranja ,4
+1160,Herrero,30,Daga Yumbo x1,Colmillos de ratas ,3
+1161,Herrero,31,Pala apaleadora x2,Cuero de miserata strubiense ,12
+1162,Herrero,31,Pala apaleadora x2,Corne de Jalató ,2
+1163,Herrero,31,Pala apaleadora x2,Colmillo de jabalí ,8
+1164,Herrero,33,Los Cuchillos Jinsu x1,Lana de ramán strubiense ,4
+1165,Herrero,33,Los Cuchillos Jinsu x1,Cuero de miserata strubiense ,6
+1166,Herrero,33,Los Cuchillos Jinsu x1,Guante de sherpóguiz ,5
+1167,Herrero,34,Dagas ancestrales x1,Lana de jalatín negro ,5
+1168,Herrero,34,Dagas ancestrales x1,Sangre de jalató ,2
+1169,Herrero,34,Dagas ancestrales x1,Piedra de granito ,2
+1170,Herrero,35,La Garra x3,Colmillo de jabalí ,15
+1171,Herrero,35,La Garra x3,Casco de martóguiz ,15
+1172,Herrero,35,La Garra x3,Pata de tofukaz ,3
+1173,Herrero,38,Guadaña del director Grunob x2,Colmillo de goblin ,4
+1174,Herrero,38,Guadaña del director Grunob x2,Manual del director Grunob ,8
+1175,Herrero,38,Guadaña del director Grunob x2,Gorro de gobalista ,10
+1176,Herrero,40,Rhizoma dorado x4,Pétalo de rosa oscura ,16
+1177,Herrero,40,Rhizoma dorado x4,Colmillo de jabalí ,20
+1178,Herrero,40,Rhizoma dorado x4,Pincho de prespic ,20
+1179,Herrero,43,Maza Damelklavel x6,Gorro de gobalista ,30
+1180,Herrero,43,Maza Damelklavel x6,Alas de escarahoja rojo ,30
+1181,Herrero,43,Maza Damelklavel x6,Diente de kwoan ,6
+1182,Herrero,43,Maza Damelklavel x6,Pelos de Bworka ,6
+1183,Herrero,48,Martillo pacificador x4,Casco de chafer primitivo ,4
+1184,Herrero,48,Martillo pacificador x4,Alas de escarahoja verde ,24
+1185,Herrero,48,Martillo pacificador x4,Cuero de stropajo ,4
+1186,Herrero,48,Martillo pacificador x4,Pluma de Batofu ,12
+1187,Herrero,51,Mass Aj Taye x1,Diente de wabbit ,3
+1188,Herrero,51,Mass Aj Taye x1,Coxis de coralador ,7
+1189,Herrero,51,Mass Aj Taye x1,Lengua de estrella ,1
+1190,Herrero,51,Mass Aj Taye x1,Coxis Magistral ,2
+1191,Herrero,52,Pala Musical x12,Pico de kwak de tierra ,24
+1192,Herrero,52,Pala Musical x12,Mechón de pelo canoso ,12
+1193,Herrero,52,Pala Musical x12,Reliquia de familia ,84
+1194,Herrero,52,Pala Musical x12,Hoja de pekekoko ,96
+1195,Herrero,60,Cizalla para cortar setos de Wobot x16,Bigotes de pekewabbit ,112
+1196,Herrero,60,Cizalla para cortar setos de Wobot x16,Rama de pekewabbit hambriento ,128
+1197,Herrero,60,Cizalla para cortar setos de Wobot x16,Cola de black wabbit ,16
+1198,Herrero,60,Cizalla para cortar setos de Wobot x16,Paño del Wey Wabbit ,16
+1199,Herrero,70,Pala Minsterio x3,Ratón verde ,18
+1200,Herrero,70,Pala Minsterio x3,Griffe de Riobionicle ,18
+1201,Herrero,70,Pala Minsterio x3,Cráneo de wabbit esqueleto ,3
+1202,Herrero,70,Pala Minsterio x3,Carniflor ,6
+1203,Herrero,70,Pala Minsterio x3,Concentrado de fajina ,3
+1204,Herrero,72,Ares x1,Uña de kanugro ,8
+1205,Herrero,72,Ares x1,Escama de jefe cocodrail ,11
+1206,Herrero,72,Ares x1,Pólvora ,1
+1207,Herrero,72,Ares x1,Pelaje de Nelwynn ,4
+1208,Herrero,72,Ares x1,Concentrado de fajina ,1
+1209,Herrero,73,Espada protectora x4,Morros de mata ,12
+1210,Herrero,73,Espada protectora x4,Camiseta de barbrusa ,36
+1211,Herrero,73,Espada protectora x4,Ojo de kanugro ,4
+1212,Herrero,73,Espada protectora x4,Tejido de Gurlo el Terrible ,4
+1213,Herrero,73,Espada protectora x4,Bakelitita ,4
+1214,Herrero,77,Kidortillo x4,Pico de kido ,12
+1215,Herrero,77,Kidortillo x4,Pluma de trasero de kido ,40
+1216,Herrero,77,Kidortillo x4,Corazón pulío ,12
+1217,Herrero,77,Kidortillo x4,Pelaje de Nelwynn ,16
+1218,Herrero,77,Kidortillo x4,Concentrado de fajina ,4
+1219,Herrero,80,Hacha Charear x16,Bola pulida ,16
+1220,Herrero,80,Hacha Charear x16,Tejido de Gurlo el Terrible ,16
+1221,Herrero,80,Hacha Charear x16,Bastón de kilibris ,48
+1222,Herrero,80,Hacha Charear x16,Concentrado de fajina ,32
+1223,Herrero,80,Hacha Charear x16,Mechón pelirrojo del Flib ,32
+1224,Herrero,90,Martillo de la Terps x2,Concentrado de bosquecillo ,2
+1225,Herrero,90,Martillo de la Terps x2,Tornillo de wabbit ,4
+1226,Herrero,90,Martillo de la Terps x2,Coraza de Mantícoro ,8
+1227,Herrero,90,Martillo de la Terps x2,Escamas de uróbolo ,24
+1228,Herrero,90,Martillo de la Terps x2,Pico de kido ,2
+1229,Herrero,90,Martillo de la Terps x2,Tejido de Judini ,2
+1230,Herrero,92,Sable yondanwa x2,Ron de Calidad ,6
+1231,Herrero,92,Sable yondanwa x2,Piel de komanbwork ,24
+1232,Herrero,92,Sable yondanwa x2,Cuero lila de megabwork ,4
+1233,Herrero,92,Sable yondanwa x2,Raíz de Abráknido Ancestral ,8
+1234,Herrero,92,Sable yondanwa x2,Concentrado de bosquecillo ,2
+1235,Herrero,92,Sable yondanwa x2,Glóbulo de Lasoberaña ,2
+1236,Herrero,94,Pala Hebuso x1,Cáscara de dragoss proteiforme ,4
+1237,Herrero,94,Pala Hebuso x1,Concentrado de bosquecillo ,1
+1238,Herrero,94,Pala Hebuso x1,Loncha mágica de komanbwork ,2
+1239,Herrero,94,Pala Hebuso x1,Oreja de medibwork ,9
+1240,Herrero,94,Pala Hebuso x1,Yema de Abráknido Ancestral ,1
+1241,Herrero,94,Pala Hebuso x1,Glóbulo de Lasoberaña ,1
+1242,Herrero,95,Falsa Garra de Ceangal x6,Corteza de Liroye Merlín ,24
+1243,Herrero,95,Falsa Garra de Ceangal x6,Brote de piroliena ,48
+1244,Herrero,95,Falsa Garra de Ceangal x6,Pelos de koalak índigo ,12
+1245,Herrero,95,Falsa Garra de Ceangal x6,Raíz de Abráknido Ancestral ,24
+1246,Herrero,95,Falsa Garra de Ceangal x6,Concentrado de bosquecillo ,6
+1247,Herrero,95,Falsa Garra de Ceangal x6,Bwak esquelético ,6
+1248,Herrero,100,Dagas Maydhyn China x4,Oreja de medibwork ,36
+1249,Herrero,100,Dagas Maydhyn China x4,Pañuelo de notyebra ,36
+1250,Herrero,100,Dagas Maydhyn China x4,Lana de arapúas ,8
+1251,Herrero,100,Dagas Maydhyn China x4,Careta de Judini ,8
+1252,Herrero,100,Dagas Maydhyn China x4,Turmalina ,4
+1253,Herrero,100,Dagas Maydhyn China x4,Kuarzo ,4
+1254,Herrero,103,Martillo de Moon x1,Piel de Moon ,4
+1255,Herrero,103,Martillo de Moon x1,Kola ,6
+1256,Herrero,103,Martillo de Moon x1,Flor de zampávoro ,21
+1257,Herrero,103,Martillo de Moon x1,Calzón mono de pirata ,4
+1258,Herrero,103,Martillo de Moon x1,Tejido de milubo ,1
+1259,Herrero,103,Martillo de Moon x1,Kuarzo ,2
+1260,Herrero,103,Martillo de Moon x1,Calcetín agujereado de Dramak ,3
+1261,Herrero,104,Martillito Ronto x8,Kuarzo ,16
+1262,Herrero,104,Martillito Ronto x8,Testículos mágicos de Maxilubo ,8
+1263,Herrero,104,Martillito Ronto x8,Brote explosivo de Kodámade ,16
+1264,Herrero,104,Martillito Ronto x8,Néctar del oriente ,48
+1265,Herrero,104,Martillito Ronto x8,Pico de heladíkano ,48
+1266,Herrero,104,Martillito Ronto x8,Escama de dragoss arcilloso ,128
+1267,Herrero,104,Martillito Ronto x8,Tupé de koalak sanguíneo ,128
+1268,Herrero,110,Hacha Kechilba x6,Rubí ,18
+1269,Herrero,110,Hacha Kechilba x6,Kriptonita ,6
+1270,Herrero,110,Hacha Kechilba x6,Brote explosivo de Kodámade ,6
+1271,Herrero,110,Hacha Kechilba x6,Fémur de koalak salvaje ,18
+1272,Herrero,110,Hacha Kechilba x6,Calcetín agujereado de Dramak ,12
+1273,Herrero,110,Hacha Kechilba x6,Piedra de Trankitronko ,6
+1274,Herrero,110,Hacha Kechilba x6,Plumaje de tofuzmo ,48
+1275,Herrero,115,Pala Moh,Kriptonita ,1
+1276,Herrero,115,Pala Moh,Cúbito de momia koalak ,16
+1277,Herrero,115,Pala Moh,Turmalina ,3
+1278,Herrero,115,Pala Moh,Tejido mágico de Moon ,1
+1279,Herrero,115,Pala Moh,Diente de Karnozor ,4
+1280,Herrero,115,Pala Moh,Cuerno de draguirritado ,16
+1281,Herrero,115,Pala Moh,Néctar del oriente ,6
+1282,Herrero,116,Hacha Pronto x3,Turmalina ,9
+1283,Herrero,116,Hacha Pronto x3,Pelo de rata brakmariana ,18
+1284,Herrero,116,Hacha Pronto x3,Kriptonita ,3
+1285,Herrero,116,Hacha Pronto x3,Short de capoeirrata ,15
+1286,Herrero,116,Hacha Pronto x3,Pústula de ratarmonía ,12
+1287,Herrero,116,Hacha Pronto x3,Hocico de Dragocerdo ,3
+1288,Herrero,116,Hacha Pronto x3,Pluma de Rasgabola Mayor ,6
+1289,Herrero,119,Dagues Régah x3,Turmalina ,9
+1290,Herrero,119,Dagues Régah x3,Kriptonita ,3
+1291,Herrero,119,Dagues Régah x3,Piel de dragnarok ,57
+1292,Herrero,119,Dagues Régah x3,Escama de dragoss carbonoso ,51
+1293,Herrero,119,Dagues Régah x3,Ala de dragandrop ,12
+1294,Herrero,119,Dagues Régah x3,Cuerno roto de Cocabulia ,3
+1295,Herrero,119,Dagues Régah x3,Crines de Rata Negra ,6
+1296,Herrero,121,Dagas R'Hoh x3,Guijarro lunar ,6
+1297,Herrero,121,Dagas R'Hoh x3,Tupé de koalak sanguíneo ,72
+1298,Herrero,121,Dagas R'Hoh x3,Concentrado de espesura ,6
+1299,Herrero,121,Dagas R'Hoh x3,Fular de koalak salvaje ,75
+1300,Herrero,121,Dagas R'Hoh x3,Pasador Zafira ,12
+1301,Herrero,121,Dagas R'Hoh x3,Pelo de Skonk ,9
+1302,Herrero,121,Dagas R'Hoh x3,Piel de Skonk ,3
+1303,Herrero,121,Dagas R'Hoh x3,Crines de Rata Negra ,6
+1304,Herrero,124,Martillito Holón x1,Pelos del Minotauroro ,3
+1305,Herrero,124,Martillito Holón x1,Kesitufo ,1
+1306,Herrero,124,Martillito Holón x1,Testículos mágicos de Maxilubo ,1
+1307,Herrero,124,Martillito Holón x1,Trasero de tofuzmo ,2
+1308,Herrero,124,Martillito Holón x1,Kriptonita ,2
+1309,Herrero,124,Martillito Holón x1,Caparazón de escarato ,19
+1310,Herrero,124,Martillito Holón x1,Turmalina ,3
+1311,Herrero,124,Martillito Holón x1,Piel de maestro koalak ,19
+1312,Herrero,125,Maza de Coralador Magistral x6,Coral magistral ,12
+1313,Herrero,125,Maza de Coralador Magistral x6,Grano de abrajidor oscuro ,144
+1314,Herrero,125,Maza de Coralador Magistral x6,Cola emplumada de Rasgabola Mayor ,6
+1315,Herrero,125,Maza de Coralador Magistral x6,Concentrado de espesura ,12
+1316,Herrero,125,Maza de Coralador Magistral x6,Turmalina ,18
+1317,Herrero,125,Maza de Coralador Magistral x6,Carpelo de esquejika ,150
+1318,Herrero,125,Maza de Coralador Magistral x6,Corteza de marguerrita ,18
+1319,Herrero,125,Maza de Coralador Magistral x6,Pistilo de Tynril ,12
+1320,Herrero,130,Dagas cacterras x1,Bigotes de cactoblongo ,29
+1321,Herrero,130,Dagas cacterras x1,Tanga de pampactus ,26
+1322,Herrero,130,Dagas cacterras x1,Huevo de Thor Pestruz ,1
+1323,Herrero,130,Dagas cacterras x1,Concentrado de bosque ,1
+1324,Herrero,130,Dagas cacterras x1,Zumo de cacterro ,7
+1325,Herrero,130,Dagas cacterras x1,Étoile d' Oro d’El Piko ,1
+1326,Herrero,130,Dagas cacterras x1,Pluma de Tofu Real ,4
+1327,Herrero,130,Dagas cacterras x1,Turmalina ,3
+1328,Herrero,131,Pala para pasteles x8,Pincho de El Piko ,8
+1329,Herrero,131,Pala para pasteles x8,Alita de grullestruz ,16
+1330,Herrero,131,Pala para pasteles x8,Huevo de Thor Pestruz ,8
+1331,Herrero,131,Pala para pasteles x8,Hoja de Blop Multicolor Real ,32
+1332,Herrero,131,Pala para pasteles x8,Concentrado de bosque ,8
+1333,Herrero,131,Pala para pasteles x8,Trasero de pestruzkito ,200
+1334,Herrero,131,Pala para pasteles x8,Pico de pestruzillo ,40
+1335,Herrero,131,Pala para pasteles x8,Turmalina ,24
+1336,Herrero,137,Pohoyacha x6,Trenza de pohoyo ,54
+1337,Herrero,137,Pohoyacha x6,Cloaca de pohoyo ,336
+1338,Herrero,137,Pohoyacha x6,Concentrado de bosque ,6
+1339,Herrero,137,Pohoyacha x6,Ámbar de Tynril ,6
+1340,Herrero,137,Pohoyacha x6,Coco de tufo oscuro ,24
+1341,Herrero,137,Pohoyacha x6,Amígdalas de tufo oscuro ,108
+1342,Herrero,137,Pohoyacha x6,Pistilo de Tynril ,12
+1343,Herrero,137,Pohoyacha x6,Pelo de barba de chamángüino ,150
+1344,Herrero,142,Pala Ancefálica x12,Palillos para el pelo de Shihan ,48
+1345,Herrero,142,Pala Ancefálica x12,Testículos del Tanukui San ,48
+1346,Herrero,142,Pala Ancefálica x12,Aguamarina ,48
+1347,Herrero,142,Pala Ancefálica x12,Topacio ,48
+1348,Herrero,142,Pala Ancefálica x12,Ágata ,48
+1349,Herrero,142,Pala Ancefálica x12,Kobalita ,24
+1350,Herrero,142,Pala Ancefálica x12,Mecha rebelde de Hell Mina ,24
+1351,Herrero,142,Pala Ancefálica x12,Colmillo de Perfósil ,12
+1352,Herrero,150,Guadaña enraizada de malter x3,Turmalina ,18
+1353,Herrero,150,Guadaña enraizada de malter x3,Concentrado de bosque primario ,3
+1354,Herrero,150,Guadaña enraizada de malter x3,Mecha Rebelle d'helle Mina ,12
+1355,Herrero,150,Guadaña enraizada de malter x3,Colmillo de Perfósil ,9
+1356,Herrero,150,Guadaña enraizada de malter x3,Pistil de Tynril ,9
+1357,Herrero,150,Guadaña enraizada de malter x3,Amuleto de maltuerzo ,93
+1358,Herrero,150,Guadaña enraizada de malter x3,Boleadora de maltrío ,99
+1359,Herrero,150,Guadaña enraizada de malter x3,Pétalo de malter ,24
+1360,Herrero,153,Hacha de fanclasma x5,Omóplato de Ben el Ripata ,5
+1361,Herrero,153,Hacha de fanclasma x5,Pluma de Morsagüino Real ,10
+1362,Herrero,153,Hacha de fanclasma x5,Fémur de Sfinter Cell ,15
+1363,Herrero,153,Hacha de fanclasma x5,Pinza de fanclasma ,165
+1364,Herrero,153,Hacha de fanclasma x5,Cuerda de fanclasma ,35
+1365,Herrero,153,Hacha de fanclasma x5,Cola de fantombrealagua ,175
+1366,Herrero,153,Hacha de fanclasma x5,Guijarro solar ,5
+1367,Herrero,153,Hacha de fanclasma x5,Concentrado de bosque primario ,5
+1368,Herrero,157,Hacha de Lamelas x8,Espina de Ugah ,32
+1369,Herrero,157,Hacha de Lamelas x8,Esfenoides del Kimbo ,8
+1370,Herrero,157,Hacha de Lamelas x8,Bigotes de Ush ,32
+1371,Herrero,157,Hacha de Lamelas x8,Fibra de cáñamo ,64
+1372,Herrero,157,Hacha de Lamelas x8,Corteza de champáknido ,320
+1373,Herrero,157,Hacha de Lamelas x8,Lengua de champidonte ,288
+1374,Herrero,157,Hacha de Lamelas x8,Guijarro solar ,8
+1375,Herrero,157,Hacha de Lamelas x8,Concentrado de bosque primario ,8
+1376,Herrero,163,Fucsia x9,Bigotes de Ush ,18
+1377,Herrero,163,Fucsia x9,Guijarro solar ,18
+1378,Herrero,163,Fucsia x9,Bigote de Shogun Tofugawa ,9
+1379,Herrero,163,Fucsia x9,Turmalina ,81
+1380,Herrero,163,Fucsia x9,Tocón de abrajidor claro ,378
+1381,Herrero,163,Fucsia x9,Pelo de miauscuro ,189
+1382,Herrero,163,Fucsia x9,Hueso de jiangshi-Nobi ,207
+1383,Herrero,163,Fucsia x9,Trasero de tufo aéreo ,189
+1384,Herrero,170,Hacha Chinscryd x10,Pelo de Ben el Ripata ,30
+1385,Herrero,170,Hacha Chinscryd x10,Córnea de kami gélifux ,20
+1386,Herrero,170,Hacha Chinscryd x10,Cuero de maho gélifux ,70
+1387,Herrero,170,Hacha Chinscryd x10,Lágrima de gélifux ,90
+1388,Herrero,170,Hacha Chinscryd x10,Guijarro solar ,20
+1389,Herrero,170,Hacha Chinscryd x10,Concentrado de bosque tropical ,10
+1390,Herrero,170,Hacha Chinscryd x10,Lana de Tengu Gélifux ,40
+1391,Herrero,170,Hacha Chinscryd x10,Pelos de Kanígrula ,20
+1392,Herrero,177,Espada Kadilla x9,Pata de soryo gélifux ,72
+1393,Herrero,177,Espada Kadilla x9,Cola de Kanígrula ,36
+1394,Herrero,177,Espada Kadilla x9,Cuero de Tengu Gélifux ,9
+1395,Herrero,177,Espada Kadilla x9,Cola de yomi gélifux ,63
+1396,Herrero,177,Espada Kadilla x9,Lágrima de gélifux ,81
+1397,Herrero,177,Espada Kadilla x9,Guijarro solar ,18
+1398,Herrero,177,Espada Kadilla x9,Concentrado de bosque tropical ,9
+1399,Herrero,177,Espada Kadilla x9,Bigotes de Ush ,36
+1400,Herrero,184,Espada Karie x1,Concentrado de bosque tropical ,2
+1401,Herrero,184,Espada Karie x1,Volva de galerina ,54
+1402,Herrero,184,Espada Karie x1,Pedúnculo de hongador ,9
+1403,Herrero,184,Espada Karie x1,Lamela de cortinaria ,11
+1404,Herrero,184,Espada Karie x1,Pata de Cil ,3
+1405,Herrero,184,Espada Karie x1,Brasas azuladas ,4
+1406,Herrero,184,Espada Karie x1,Trama dimensional ,12
+1407,Herrero,184,Espada Karie x1,Uña de Bworker ,3
+1408,Herrero,185,Hacha Depé x3,Ojo de Cil ,3
+1409,Herrero,185,Hacha Depé x3,Pedúnculo de cortinaria ,6
+1410,Herrero,185,Hacha Depé x3,Espina de Ugah ,12
+1411,Herrero,185,Hacha Depé x3,Trama dimensional ,36
+1412,Herrero,185,Hacha Depé x3,Pata de Cil ,6
+1413,Herrero,185,Hacha Depé x3,Concentrado de bosque tropical ,6
+1414,Herrero,185,Hacha Depé x3,Raíz de korrosif ,27
+1415,Herrero,185,Hacha Depé x3,Lamela de dramanita ,165
+1416,Herrero,187,Cuchillos corta-setas x9,Espina de Ugah ,27
+1417,Herrero,187,Cuchillos corta-setas x9,Cuerno de XLII ,9
+1418,Herrero,187,Cuchillos corta-setas x9,Brasas azuladas ,36
+1419,Herrero,187,Cuchillos corta-setas x9,Fibra de cáñamo ,81
+1420,Herrero,187,Cuchillos corta-setas x9,Lamela de champbis ,558
+1421,Herrero,187,Cuchillos corta-setas x9,Trompa de Trompseta ,477
+1422,Herrero,187,Cuchillos corta-setas x9,Concentrado de bosque tropical ,18
+1423,Herrero,187,Cuchillos corta-setas x9,Turmalina ,108
+1424,Herrero,194,Hacha Teroyde x1,Piel de Bworker ,1
+1425,Herrero,194,Hacha Teroyde x1,Ardonita ,1
+1426,Herrero,194,Hacha Teroyde x1,Incisivo de Sylargh ,1
+1427,Herrero,194,Hacha Teroyde x1,Oreja de tejaiss ,9
+1428,Herrero,194,Hacha Teroyde x1,Tejido de nocturnejón ,8
+1429,Herrero,194,Hacha Teroyde x1,Ojo de pyrojón ,9
+1430,Herrero,194,Hacha Teroyde x1,Trama dimensional ,12
+1431,Herrero,194,Hacha Teroyde x1,Garra de Tejossus ,4
+1432,Herrero,195,Martillo de golornado x6,Pelos de golosote ,318
+1433,Herrero,195,Martillo de golornado x6,Cuero de golornado ,324
+1434,Herrero,195,Martillo de golornado x6,Antena de golosojorro ,378
+1435,Herrero,195,Martillo de golornado x6,Hueso del carpo de Golosotrón Real ,6
+1436,Herrero,195,Martillo de golornado x6,Pata de Cil ,18
+1437,Herrero,195,Martillo de golornado x6,Lana de Tengu Gélifux ,18
+1438,Herrero,195,Martillo de golornado x6,Concentrado de selva ,6
+1439,Herrero,195,Martillo de golornado x6,Turmalina ,72
+1440,Escultor,0,Bio Varita x13,Pétalo diáfano ,39
+1441,Escultor,0,Bio Varita x13,Lana celeste ,39
+1442,Escultor,5,Arco Nada x7,Baba de jalató ,21
+1443,Escultor,5,Arco Nada x7,Ortiga ,21
+1444,Escultor,9,Bastón de maderucha x2,Fuego Interno ,6
+1445,Escultor,9,Bastón de maderucha x2,Hueso de chafer ,6
+1446,Escultor,11,Arco silbante x3,Pluma de pío azul ,9
+1447,Escultor,11,Arco silbante x3,Épine de Champi champ ,9
+1448,Escultor,13,Arco Hólico x2,Baba de rosa demoníaca ,2
+1449,Escultor,13,Arco Hólico x2,Piel de larva amarilla ,6
+1450,Escultor,15,La Plantamaza de los Campos x1,Semilla de girasol ,1
+1451,Escultor,15,La Plantamaza de los Campos x1,Hoja de girasol salvaje ,1
+1452,Escultor,16,Bastón Espiritual x3,Pata de arakna ,9
+1453,Escultor,16,Bastón Espiritual x3,Pluma de pío amarillo ,9
+1454,Escultor,19,Arco desconcertante x1,Bronceador ,3
+1455,Escultor,19,Arco desconcertante x1,Lengua de espanterrador ,3
+1456,Escultor,20,Arco de bwork arquero x5,Aletas de competición ,15
+1457,Escultor,20,Arco de bwork arquero x5,Piel de larva verde ,15
+1458,Escultor,24,Arco Buz x4,Pétalo de rosa demoníaca ,16
+1459,Escultor,24,Arco Buz x4,Intestino de araknáusea ,16
+1460,Escultor,24,Arco Buz x4,Pétalo mágico de Girasol Hambriento ,4
+1461,Escultor,27,Varita estranguladora x3,Pluma de pío verde ,12
+1462,Escultor,27,Varita estranguladora x3,Sangre de jalató ,6
+1463,Escultor,27,Varita estranguladora x3,Pétalo de rosa demoníaca ,12
+1464,Escultor,30,Bastón de raíz de abráknido x4,Semilla de girasol ,4
+1465,Escultor,30,Bastón de raíz de abráknido x4,Algodón ancestral ,4
+1466,Escultor,30,Bastón de raíz de abráknido x4,Raíz de abráknido ,8
+1467,Escultor,33,Varita de raíz de abráknido x1,Pétalo de rosa oscura ,5
+1468,Escultor,33,Varita de raíz de abráknido x1,Lana de jalatín negro ,1
+1469,Escultor,33,Varita de raíz de abráknido x1,Raíz de abráknido ,3
+1470,Escultor,34,Bastón del Amo de los Tabis x3,Casco de martóguiz ,15
+1471,Escultor,34,Bastón del Amo de los Tabis x3,Guante de sherpóguiz ,15
+1472,Escultor,34,Bastón del Amo de los Tabis x3,Lana de jalatín negro ,15
+1473,Escultor,37,Bastón de Akné x1,Colmillo de jabalí ,5
+1474,Escultor,37,Bastón de Akné x1,Lana de jefe de guerra jalató ,5
+1475,Escultor,37,Bastón de Akné x1,Pelos de minilubo ,5
+1476,Escultor,38,Arco de cuerno de jalató x2,Oreja de gremóguiz ,10
+1477,Escultor,38,Arco de cuerno de jalató x2,Lana de jefe de guerra jalató ,4
+1478,Escultor,38,Arco de cuerno de jalató x2,Corne de Jalató ,10
+1479,Escultor,40,Varita larvesca x10,Piel de larva naranja ,50
+1480,Escultor,40,Varita larvesca x10,Piel de larva verde ,50
+1481,Escultor,40,Varita larvesca x10,Antenas de vilinsekto ,50
+1482,Escultor,47,Cetro del kaníbola Daldrrak x4,Bola de kaníbola ,4
+1483,Escultor,47,Cetro del kaníbola Daldrrak x4,Muñeca Bodú Jav ,28
+1484,Escultor,47,Cetro del kaníbola Daldrrak x4,Pinza de crustoral ,12
+1485,Escultor,47,Cetro del kaníbola Daldrrak x4,Carniflor ,12
+1486,Escultor,50,Bastón-bola de vidente x2,Laminilla de champo marrón ,12
+1487,Escultor,50,Bastón-bola de vidente x2,Catalejo de gobletrotter ,10
+1488,Escultor,50,Bastón-bola de vidente x2,Bola de kaníbola ,2
+1489,Escultor,50,Bastón-bola de vidente x2,Piel de Bworka ,8
+1490,Escultor,52,Arco de Boo x3,Lodo de boo ,21
+1491,Escultor,52,Arco de Boo x3,Mano de boo ,9
+1492,Escultor,52,Arco de Boo x3,Coxis Magistral ,6
+1493,Escultor,52,Arco de Boo x3,Corazón de lodo de boo ,3
+1494,Escultor,55,Hook x5,Pluma de kwak de hielo ,35
+1495,Escultor,55,Hook x5,Rodaja de nozdekoko ,25
+1496,Escultor,55,Hook x5,Pétalo mohito ,5
+1497,Escultor,55,Hook x5,Cerradura del cofre de los herreros ,10
+1498,Escultor,59,El Tizón Zippón x14,Calzoncillo de cuero de chafer lancero ,84
+1499,Escultor,59,El Tizón Zippón x14,Misericordia de chafer de élite ,98
+1500,Escultor,59,El Tizón Zippón x14,Coral kuraçao ,14
+1501,Escultor,59,El Tizón Zippón x14,Pelos de Bworka ,14
+1502,Escultor,68,Krystobola x2,Tejido púrpura ,14
+1503,Escultor,68,Krystobola x2,Loncha mágica de komanbwork ,2
+1504,Escultor,68,Krystobola x2,Oreja de medibwork ,18
+1505,Escultor,68,Krystobola x2,Corazón de Mantícoro ,2
+1506,Escultor,68,Krystobola x2,Concentrado de oquedal ,2
+1507,Escultor,70,Arco de pescador x1,Cáscara de dragohuevo carbonoso ,6
+1508,Escultor,70,Arco de pescador x1,Cola de black wabbit ,1
+1509,Escultor,70,Arco de pescador x1,Flor de Blop Índigo Real ,1
+1510,Escultor,70,Arco de pescador x1,Concentrado de fajina ,1
+1511,Escultor,70,Arco de pescador x1,Cola de rata hyoactiva ,8
+1512,Escultor,71,Varita de líder x1,Mostacho de kólerat ,11
+1513,Escultor,71,Varita de líder x1,Pico de dragopavo dorado ,10
+1514,Escultor,71,Varita de líder x1,Pólvora ,1
+1515,Escultor,71,Varita de líder x1,Pedazo del calzón de Gurlo ,4
+1516,Escultor,71,Varita de líder x1,Concentrado de fajina ,1
+1517,Escultor,72,Arco de Roberto del Monte x3,Patita de colmillo blando ,21
+1518,Escultor,72,Arco de Roberto del Monte x3,Semilla de scorbuto ,24
+1519,Escultor,72,Arco de Roberto del Monte x3,Ala de dragopavo ,3
+1520,Escultor,72,Arco de Roberto del Monte x3,Pedazo del calzón de Gurlo ,6
+1521,Escultor,72,Arco de Roberto del Monte x3,Bakelitita ,3
+1522,Escultor,74,El Bidyiz x1,Pólvora ,1
+1523,Escultor,74,El Bidyiz x1,Mega piedra del Crujidor Legendario ,1
+1524,Escultor,74,El Bidyiz x1,Camiseta de barbrusa ,9
+1525,Escultor,74,El Bidyiz x1,Ala de dragopavo dorado ,10
+1526,Escultor,74,El Bidyiz x1,Bakelitita ,1
+1527,Escultor,75,Varita Infernal x2,Escama de jefe cocodrail ,20
+1528,Escultor,75,Varita Infernal x2,Ojo de crowrajo ,2
+1529,Escultor,75,Varita Infernal x2,Espina de dragopavo ,12
+1530,Escultor,75,Varita Infernal x2,Pedazo del calzón de Gurlo ,6
+1531,Escultor,75,Varita Infernal x2,Bakelitita ,2
+1532,Escultor,77,Bastón sandanwa x1,Semilla de scorbuto ,9
+1533,Escultor,77,Bastón sandanwa x1,Carbón ,10
+1534,Escultor,77,Bastón sandanwa x1,Cráneo de jefe cocodrail ,1
+1535,Escultor,77,Bastón sandanwa x1,Tejido de Gurlo el Terrible ,1
+1536,Escultor,77,Bastón sandanwa x1,Bakelitita ,1
+1537,Escultor,78,Varita de Kuarzo x3,Ala de dragopavo dorado ,33
+1538,Escultor,78,Varita de Kuarzo x3,Semilla de scorbuto ,24
+1539,Escultor,78,Varita de Kuarzo x3,Collar roto de mata ,3
+1540,Escultor,78,Varita de Kuarzo x3,Matraz de humo de Nelwynn ,3
+1541,Escultor,78,Varita de Kuarzo x3,Concentrado de fajina ,3
+1542,Escultor,81,Varita Chispera x1,Huevo de dragohuevo arcilloso ,12
+1543,Escultor,81,Varita Chispera x1,Concentrado de fajina ,2
+1544,Escultor,81,Varita Chispera x1,Tornillo de wabbit ,2
+1545,Escultor,81,Varita Chispera x1,Bumerán de warko marrón ,1
+1546,Escultor,81,Varita Chispera x1,Coraza de Mantícoro ,4
+1547,Escultor,81,Varita Chispera x1,Barba del Wey Wobot ,3
+1548,Escultor,82,Arco Ángel x1,Concentrado de fajina ,2
+1549,Escultor,82,Arco Ángel x1,Corazón de Mantícoro ,1
+1550,Escultor,82,Arco Ángel x1,Gafas de pekewobot ,4
+1551,Escultor,82,Arco Ángel x1,Pelo de Dragenerys ,1
+1552,Escultor,82,Arco Ángel x1,Escamas de uróbolo ,9
+1553,Escultor,82,Arco Ángel x1,Ojo de yenaparda ,7
+1554,Escultor,83,Varita Blanda x2,Bakelitita ,4
+1555,Escultor,83,Varita Blanda x2,Boulou Wabbit ,4
+1556,Escultor,83,Varita Blanda x2,Tela de Dok Alako ,26
+1557,Escultor,83,Varita Blanda x2,Coraza de Mantícoro ,4
+1558,Escultor,83,Varita Blanda x2,Bastón de awelito wabbit blanco ,6
+1559,Escultor,83,Varita Blanda x2,Tejido de Dragenerys ,6
+1560,Escultor,85,Bastón del Amo de los Jalatós x1,Bola de bolapincho ,3
+1561,Escultor,85,Bastón del Amo de los Jalatós x1,Raíz de abráknido oscuro ,8
+1562,Escultor,85,Bastón del Amo de los Jalatós x1,Gafas de pekewobot ,3
+1563,Escultor,85,Bastón del Amo de los Jalatós x1,Coraza de Mantícoro ,3
+1564,Escultor,85,Bastón del Amo de los Jalatós x1,Bakelitita ,2
+1565,Escultor,85,Bastón del Amo de los Jalatós x1,Rosa del desierto ,150
+1566,Escultor,86,Raíz Cynorrhodon x1,Concentrado de fajina ,2
+1567,Escultor,86,Raíz Cynorrhodon x1,Kólerat muerto ,1
+1568,Escultor,86,Raíz Cynorrhodon x1,Tornillo de wabbit ,1
+1569,Escultor,86,Raíz Cynorrhodon x1,Pelaje de Nelwynn ,3
+1570,Escultor,86,Raíz Cynorrhodon x1,Bola de bolapincho ,3
+1571,Escultor,86,Raíz Cynorrhodon x1,Corazón de Mantícoro ,1
+1572,Escultor,87,Paloabra oscuro x1,Bakelitita ,2
+1573,Escultor,87,Paloabra oscuro x1,Ámbar de abráknido oscuro ,1
+1574,Escultor,87,Paloabra oscuro x1,Escamas de uróbolo ,12
+1575,Escultor,87,Paloabra oscuro x1,Coraza de Mantícoro ,4
+1576,Escultor,87,Paloabra oscuro x1,Rosa del desierto ,150
+1577,Escultor,87,Paloabra oscuro x1,Corteza de abráknido venerable ,1
+1578,Escultor,88,Bastón de Daigorobo x1,Concentrado de fajina ,2
+1579,Escultor,88,Bastón de Daigorobo x1,Bumerán de dok alako ,1
+1580,Escultor,88,Bastón de Daigorobo x1,Huevo de dragohuevo pizarroso ,11
+1581,Escultor,88,Bastón de Daigorobo x1,Rosa del desierto ,150
+1582,Escultor,88,Bastón de Daigorobo x1,Glóbulo de Lasoberaña ,1
+1583,Escultor,88,Bastón de Daigorobo x1,Ámbar de abráknido oscuro ,3
+1584,Escultor,89,Arco de sram arquero x1,Pañuelo de notyebra ,11
+1585,Escultor,89,Arco de sram arquero x1,Piedra medicinal ,13
+1586,Escultor,89,Arco de sram arquero x1,Arena fina ,1
+1587,Escultor,89,Arco de sram arquero x1,Bakelitita ,2
+1588,Escultor,89,Arco de sram arquero x1,Careta de Judini ,3
+1589,Escultor,89,Arco de sram arquero x1,Barba de Le Chuko ,2
+1590,Escultor,90,Varita Irreal x4,Concentrado de bosquecillo ,4
+1591,Escultor,90,Varita Irreal x4,Piedra medicinal ,28
+1592,Escultor,90,Varita Irreal x4,Cáscara de dragoss proteiforme ,16
+1593,Escultor,90,Varita Irreal x4,Bumerán de warko marrón ,4
+1594,Escultor,90,Varita Irreal x4,Barba de Le Chuko ,12
+1595,Escultor,90,Varita Irreal x4,Coraza de Mantícoro ,8
+1596,Escultor,93,Bastón yondanwa x2,Navaja oxidada ,16
+1597,Escultor,93,Bastón yondanwa x2,Pluma de heladíkano ,16
+1598,Escultor,93,Bastón yondanwa x2,Tela de abrakno oscuro ,4
+1599,Escultor,93,Bastón yondanwa x2,Yema de Abráknido Ancestral ,2
+1600,Escultor,93,Bastón yondanwa x2,Concentrado de bosquecillo ,2
+1601,Escultor,93,Bastón yondanwa x2,Seda babosa ,6
+1602,Escultor,95,Varita Velluda x1,Navaja oxidada ,10
+1603,Escultor,95,Varita Velluda x1,Piel de komanbwork ,10
+1604,Escultor,95,Varita Velluda x1,Corteza de Liroye Merlín ,2
+1605,Escultor,95,Varita Velluda x1,Tejido de Judini ,1
+1606,Escultor,95,Varita Velluda x1,Concentrado de bosquecillo xTourmaline ,1
+1607,Escultor,96,Arc Anum x4,Máscara de araknotrón rota ,8
+1608,Escultor,96,Arc Anum x4,Calzón mono de pirata ,44
+1609,Escultor,96,Arc Anum x4,Arakna espachurrada ,4
+1610,Escultor,96,Arc Anum x4,Raíz de Abráknido Ancestral ,8
+1611,Escultor,96,Arc Anum x4,Tejido de Judini ,4
+1612,Escultor,96,Arc Anum x4,Kuarzo ,4
+1613,Escultor,100,Arco Jabato x7,Piel de komanbwork ,91
+1614,Escultor,100,Arco Jabato x7,Pañuelo de notyebra ,91
+1615,Escultor,100,Arco Jabato x7,Tela de abrakno oscuro ,14
+1616,Escultor,100,Arco Jabato x7,Raíz de Abráknido Ancestral ,21
+1617,Escultor,100,Arco Jabato x7,Turmalina ,7
+1618,Escultor,100,Arco Jabato x7,Kuarzo ,7
+1619,Escultor,105,Varita Fekal x1,Concentrado de bosquecillo ,2
+1620,Escultor,105,Varita Fekal x1,Guijarro lunar ,1
+1621,Escultor,105,Varita Fekal x1,Pelo de Dragocerdo ,1
+1622,Escultor,105,Varita Fekal x1,Ojo de Karnozor ,1
+1623,Escultor,105,Varita Fekal x1,Cáscara de dragoss arcilloso ,3
+1624,Escultor,105,Varita Fekal x1,Lengua de ranúfar ,16
+1625,Escultor,105,Varita Fekal x1,Calzoncillo de trooloko ,5
+1626,Escultor,106,Raíz Sin Semilla x8,Diente de Karnozor ,24
+1627,Escultor,106,Raíz Sin Semilla x8,Topacio ,8
+1628,Escultor,106,Raíz Sin Semilla x8,Concentrado de bosquecillo ,16
+1629,Escultor,106,Raíz Sin Semilla x8,Pluma de dodoncella ,32
+1630,Escultor,106,Raíz Sin Semilla x8,Raíz de Abráknido Ancestral ,24
+1631,Escultor,106,Raíz Sin Semilla x8,Piel de Moon ,16
+1632,Escultor,106,Raíz Sin Semilla x8,Polen de bulbiflor ,112
+1633,Escultor,112,Varita Rosca x4,Guijarro lunar ,8
+1634,Escultor,112,Varita Rosca x4,Concentrado de espesura ,4
+1635,Escultor,112,Varita Rosca x4,Topacio ,8
+1636,Escultor,112,Varita Rosca x4,Pluma de trasero de kido ,76
+1637,Escultor,112,Varita Rosca x4,Bastón de kilibris ,16
+1638,Escultor,112,Varita Rosca x4,Calcetín agujereado de Dramak ,12
+1639,Escultor,112,Varita Rosca x4,Cola emplumada de Rasgabola Mayor ,4
+1640,Escultor,116,La Raíz Zinzinati x1,Guijarro lunar ,1
+1641,Escultor,116,La Raíz Zinzinati x1,Topacio ,2
+1642,Escultor,116,La Raíz Zinzinati x1,Concentrado de espesura ,1
+1643,Escultor,116,La Raíz Zinzinati x1,Tibia de koalak sepulturero ,14
+1644,Escultor,116,La Raíz Zinzinati x1,Cúbito de momia koalak ,16
+1645,Escultor,116,La Raíz Zinzinati x1,Brote explosivo de Kodámade ,4
+1646,Escultor,116,La Raíz Zinzinati x1,Cola emplumada de Rasgabola Mayor ,1
+1647,Escultor,117,Varita de Elya Wood x4,Raíz de Abráknido Ancestral ,12
+1648,Escultor,117,Varita de Elya Wood x4,Brote explosivo de Kodámade ,4
+1649,Escultor,117,Varita de Elya Wood x4,Raíz de abráknido venerable ,72
+1650,Escultor,117,Varita de Elya Wood x4,Ámbar de abráknido oscuro ,16
+1651,Escultor,117,Varita de Elya Wood x4,Máscara de araknotrón rota ,16
+1652,Escultor,117,Varita de Elya Wood x4,Concentrado de espesura ,4
+1653,Escultor,117,Varita de Elya Wood x4,Guijarro lunar ,8
+1654,Escultor,120,Arco Mático x3,Entrada de concierto de Diamantina ,3
+1655,Escultor,120,Arco Mático x3,Kriptonita ,6
+1656,Escultor,120,Arco Mático x3,Pelo de trooléolé ,36
+1657,Escultor,120,Arco Mático x3,Píxel de Fraktal ,9
+1658,Escultor,120,Arco Mático x3,Crines de trooloko ,51
+1659,Escultor,120,Arco Mático x3,Coeur du Capitaine Ekarlate ,6
+1660,Escultor,120,Arco Mático x3,Guijarro lunar ,6
+1661,Escultor,123,Arco Disuasivo x3,Guijarro lunar ,6
+1662,Escultor,123,Arco Disuasivo x3,Topacio ,12
+1663,Escultor,123,Arco Disuasivo x3,Étoile d' Oro d’El Piko ,3
+1664,Escultor,123,Arco Disuasivo x3,Concentrado de espesura ,6
+1665,Escultor,123,Arco Disuasivo x3,Cuerno de minovillo ,63
+1666,Escultor,123,Arco Disuasivo x3,Piel de Cocabulia ,6
+1667,Escultor,123,Arco Disuasivo x3,Crines de trooloko ,57
+1668,Escultor,123,Arco Disuasivo x3,Píxel de Fraktal ,3
+1669,Escultor,126,Bastón Kaskador x1,Pelo de minovillo ,22
+1670,Escultor,126,Bastón Kaskador x1,Piedra de Trankitronko ,1
+1671,Escultor,126,Bastón Kaskador x1,Clavícula de jalamut ,6
+1672,Escultor,126,Bastón Kaskador x1,Lana de Jalamut Real ,2
+1673,Escultor,126,Bastón Kaskador x1,Concentrado de espesura ,2
+1674,Escultor,126,Bastón Kaskador x1,Píxel de Fraktal ,2
+1675,Escultor,126,Bastón Kaskador x1,Piel de maestro koalak ,10
+1676,Escultor,126,Bastón Kaskador x1,Pelos de Kerubim ,36
+1677,Escultor,127,Varita Despistada x3,Cuerno de dragoss proteiforme ,9
+1678,Escultor,127,Varita Despistada x3,Cáscara de dragoss arcilloso ,12
+1679,Escultor,127,Varita Despistada x3,Corne de Cocabulia ,3
+1680,Escultor,127,Varita Despistada x3,Raíz de Abráknido Ancestral ,12
+1681,Escultor,127,Varita Despistada x3,Concentrado de espesura ,6
+1682,Escultor,127,Varita Despistada x3,Guijarro lunar ,6
+1683,Escultor,127,Varita Despistada x3,Piel de maestro koalak ,30
+1684,Escultor,127,Varita Despistada x3,Crines de Rata Blanca ,12
+1685,Escultor,129,Kelinorrama x1,Guijarro lunar ,2
+1686,Escultor,129,Kelinorrama x1,Colmillo de dragohuevo protector ,6
+1687,Escultor,129,Kelinorrama x1,Concentrado de espesura ,2
+1688,Escultor,129,Kelinorrama x1,Pelo de minovillo ,20
+1689,Escultor,129,Kelinorrama x1,Piel de mino ,7
+1690,Escultor,129,Kelinorrama x1,Cuerno roto de Cocabulia ,1
+1691,Escultor,129,Kelinorrama x1,Cola emplumada de Rasgabola Mayor ,1
+1692,Escultor,129,Kelinorrama x1,Pelos del Minotauroro ,3
+1693,Escultor,130,Rama de abrajidor oscuro x2,Ámbar de Tynril ,2
+1694,Escultor,130,Rama de abrajidor oscuro x2,Pluma de Rasgabola Mayor ,6
+1695,Escultor,130,Rama de abrajidor oscuro x2,Cuerno roto de Cocabulia ,2
+1696,Escultor,130,Rama de abrajidor oscuro x2,Amígdalas de tufo oscuro ,46
+1697,Escultor,130,Rama de abrajidor oscuro x2,Talon d'achille de l’ Abrajidor oscuro ,12
+1698,Escultor,130,Rama de abrajidor oscuro x2,Grano de abrajidor oscuro ,52
+1699,Escultor,130,Rama de abrajidor oscuro x2,Pepita ,600
+1700,Escultor,130,Rama de abrajidor oscuro x2,Concentrado de bosque ,2
+1701,Escultor,132,Rama de abrajidor claro x4,Ámbar de Tynril ,4
+1702,Escultor,132,Rama de abrajidor claro x4,Raíz de Roble Blando ,12
+1703,Escultor,132,Rama de abrajidor claro x4,Cola emplumada de Rasgabola Mayor ,4
+1704,Escultor,132,Rama de abrajidor claro x4,Coco de tufo aéreo ,24
+1705,Escultor,132,Rama de abrajidor claro x4,Nudo de abrajidor claro ,24
+1706,Escultor,132,Rama de abrajidor claro x4,Tocón de abrajidor claro ,96
+1707,Escultor,132,Rama de abrajidor claro x4,Concentrado de bosque ,4
+1708,Escultor,132,Rama de abrajidor claro x4,Pepita ,1200
+1709,Escultor,136,Raíz de diente pe-león x4,Raíz de Roble Blando ,4
+1710,Escultor,136,Raíz de diente pe-león x4,Pincho de El Piko ,8
+1711,Escultor,136,Raíz de diente pe-león x4,Coco de tufo oscuro ,20
+1712,Escultor,136,Raíz de diente pe-león x4,Corteza de diente pe-león ,24
+1713,Escultor,136,Raíz de diente pe-león x4,Trama dimensional ,12
+1714,Escultor,136,Raíz de diente pe-león x4,Cáliz de diente pe-león ,104
+1715,Escultor,136,Raíz de diente pe-león x4,Concentrado de bosque ,4
+1716,Escultor,136,Raíz de diente pe-león x4,Pistilo de Tynril ,16
+1717,Escultor,139,Basnórquel x4,Pluma de pekegüino ,126
+1718,Escultor,139,Basnórquel x4,Aceite de mamagüina ,20
+1719,Escultor,139,Basnórquel x4,Pelo de barba de chamángüino ,96
+1720,Escultor,139,Basnórquel x4,Pluma de Morsagüino Real ,12
+1721,Escultor,139,Basnórquel x4,Piel de Cocabulia ,8
+1722,Escultor,139,Basnórquel x4,Pistilo de Tynril ,16
+1723,Escultor,139,Basnórquel x4,Trama dimensional ,12
+1724,Escultor,139,Basnórquel x4,Kobalita ,8
+1725,Escultor,143,Raíz Kyerda Unida x5,Turmalina ,30
+1726,Escultor,143,Raíz Kyerda Unida x5,Pistilo de Tynril ,10
+1727,Escultor,143,Raíz Kyerda Unida x5,Concentrado de bosque ,10
+1728,Escultor,143,Raíz Kyerda Unida x5,Ámbar de abráknido oscuro irascible ,10
+1729,Escultor,143,Raíz Kyerda Unida x5,Pata de abrakno irascible ,30
+1730,Escultor,143,Raíz Kyerda Unida x5,Brote de abráknido oscuro irascible ,30
+1731,Escultor,143,Raíz Kyerda Unida x5,Huevo de Thor Pestruz ,5
+1732,Escultor,143,Raíz Kyerda Unida x5,Raíz de Roble Blando ,15
+1733,Escultor,147,Arco de Lafrontera x18,Esfenoides del Kimbo ,36
+1734,Escultor,147,Arco de Lafrontera x18,Pistilo de Tynril ,54
+1735,Escultor,147,Arco de Lafrontera x18,Coco de tufo aéreo ,108
+1736,Escultor,147,Arco de Lafrontera x18,Raíz de Roble Blando ,72
+1737,Escultor,147,Arco de Lafrontera x18,Tejido de mopet ,36
+1738,Escultor,147,Arco de Lafrontera x18,Trasero de tufo aéreo ,576
+1739,Escultor,147,Arco de Lafrontera x18,Concentrado de bosque ,36
+1740,Escultor,147,Arco de Lafrontera x18,Baba de kasrakol ,594
+1741,Escultor,158,Bastón de maestro zoth x10,Calcetín del Kimbo ,10
+1742,Escultor,158,Bastón de maestro zoth x10,Pistilo de Tynril ,40
+1743,Escultor,158,Bastón de maestro zoth x10,Mecha rebelde de Hell Mina ,30
+1744,Escultor,158,Bastón de maestro zoth x10,Tejido zoth ,80
+1745,Escultor,158,Bastón de maestro zoth x10,Kristalita ,20
+1746,Escultor,158,Bastón de maestro zoth x10,Pipa de la paz zoth ,310
+1747,Escultor,158,Bastón de maestro zoth x10,Concentrado de bosque primario ,10
+1748,Escultor,158,Bastón de maestro zoth x10,Guijarro solar ,10
+1749,Escultor,165,Caña Dashuka x2,Trama dimensional ,18
+1750,Escultor,165,Caña Dashuka x2,Cola de miauidizo ,74
+1751,Escultor,165,Caña Dashuka x2,Cadena de tigredón ,70
+1752,Escultor,165,Caña Dashuka x2,Crines de huerfelino ,78
+1753,Escultor,165,Caña Dashuka x2,Bigote de Shogun Tofugawa ,4
+1754,Escultor,165,Caña Dashuka x2,Cola de Kanígrula ,2
+1755,Escultor,165,Caña Dashuka x2,Fémur de Sfinter Cell ,4
+1756,Escultor,165,Caña Dashuka x2,Concentrado de bosque primario ,4
+1757,Escultor,167,Arco Tangente x6,Bigote de Shogun Tofugawa ,6
+1758,Escultor,167,Arco Tangente x6,Ulna de solfatara ,48
+1759,Escultor,167,Arco Tangente x6,Huevo de ventozador ,42
+1760,Escultor,167,Arco Tangente x6,Piedra de mofeta ,60
+1761,Escultor,167,Arco Tangente x6,Escoria de Obsidiantre ,24
+1762,Escultor,167,Arco Tangente x6,Bigotes de Ush ,6
+1763,Escultor,167,Arco Tangente x6,Trama dimensional ,54
+1764,Escultor,167,Arco Tangente x6,Concentrado de bosque primario ,12
+1765,Escultor,172,Bastón Yka x5,Oreja de soryo gélifux ,210
+1766,Escultor,172,Bastón Yka x5,Guijarro solar ,10
+1767,Escultor,172,Bastón Yka x5,Lana de maho gélifux ,190
+1768,Escultor,172,Bastón Yka x5,Concentrado de bosque tropical ,5
+1769,Escultor,172,Bastón Yka x5,Cuero de Tengu Gélifux ,5
+1770,Escultor,172,Bastón Yka x5,Pezuña de Minotot ,5
+1771,Escultor,172,Bastón Yka x5,Brasas azuladas ,10
+1772,Escultor,172,Bastón Yka x5,Colmillo de kami gélifux ,45
+1773,Escultor,176,Rod Gers x5,Guijarro solar ,10
+1774,Escultor,176,Rod Gers x5,Piruta ,5
+1775,Escultor,176,Rod Gers x5,Concentrado de bosque tropical ,5
+1776,Escultor,176,Rod Gers x5,Forúnculo de mamá bwork ,210
+1777,Escultor,176,Rod Gers x5,Calzón de cybwork ,10
+1778,Escultor,176,Rod Gers x5,Brasas azuladas ,20
+1779,Escultor,176,Rod Gers x5,Etmoides de Minotot ,15
+1780,Escultor,176,Rod Gers x5,Piel de Bworker ,5
+1781,Escultor,180,Variterela x3,Etmoides de Minotot ,6
+1782,Escultor,180,Variterela x3,Trompa de Trompseta ,105
+1783,Escultor,180,Variterela x3,Fibra de cáñamo ,27
+1784,Escultor,180,Variterela x3,Concentrado de bosque tropical ,6
+1785,Escultor,180,Variterela x3,Lamela de champbis ,117
+1786,Escultor,180,Variterela x3,Trama dimensional ,27
+1787,Escultor,180,Variterela x3,Espina de Ugah ,9
+1788,Escultor,180,Variterela x3,Pata de Cil ,6
+1789,Escultor,183,Arco de Lamelas x1,Lengua de champidonte ,54
+1790,Escultor,183,Arco de Lamelas x1,Espina de Ugah ,2
+1791,Escultor,183,Arco de Lamelas x1,Trama dimensional ,12
+1792,Escultor,183,Arco de Lamelas x1,Concentrado de bosque tropical ,2
+1793,Escultor,183,Arco de Lamelas x1,Corteza de champáknido ,3
+1794,Escultor,183,Arco de Lamelas x1,Brasas azuladas ,1
+1795,Escultor,183,Arco de Lamelas x1,Cuero de Tengu Gélifux ,1
+1796,Escultor,183,Arco de Lamelas x1,Baba de seta peleona ,6
+1797,Escultor,184,Arco coa x3,Concentrado de bosque tropical ,6
+1798,Escultor,184,Arco coa x3,Brasas azuladas ,12
+1799,Escultor,184,Arco coa x3,Raíz de korrosif ,27
+1800,Escultor,184,Arco coa x3,Trama dimensional ,36
+1801,Escultor,184,Arco coa x3,Oreja de galerina ,27
+1802,Escultor,184,Arco coa x3,Fragmento de Ugahlureta ,3
+1803,Escultor,184,Arco coa x3,Pata de Cil ,12
+1804,Escultor,184,Arco coa x3,Lamela de cortinaria ,39
+1805,Escultor,187,Varita Bakera x5,Brasas azuladas ,20
+1806,Escultor,187,Varita Bakera x5,Pedúnculo de cortinaria ,10
+1807,Escultor,187,Varita Bakera x5,Trama dimensional ,60
+1808,Escultor,187,Varita Bakera x5,Ventosa del kralamar gigante ,15
+1809,Escultor,187,Varita Bakera x5,Pata de Cil ,15
+1810,Escultor,187,Varita Bakera x5,Lamela de cortinaria ,65
+1811,Escultor,187,Varita Bakera x5,Volva de galerina ,260
+1812,Escultor,187,Varita Bakera x5,Concentrado de bosque tropical ,10
+1813,Escultor,191,Báculo de Setador x8,Cuerno de XLII ,16
+1814,Escultor,191,Báculo de Setador x8,Ojo de setador ,504
+1815,Escultor,191,Báculo de Setador x8,Corteza de champáknido ,432
+1816,Escultor,191,Báculo de Setador x8,Fibra de cáñamo ,80
+1817,Escultor,191,Báculo de Setador x8,Fragmento de Ugahlureta ,8
+1818,Escultor,191,Báculo de Setador x8,Ojo de Anelidón ,24
+1819,Escultor,191,Báculo de Setador x8,Concentrado de selva ,8
+1820,Escultor,191,Báculo de Setador x8,Trama dimensional ,96
+1821,Escultor,197,Bastoncito Feho x3,Bec du Güinórdido ,144
+1822,Escultor,197,Bastoncito Feho x3,Corazón de cuerastro ,24
+1823,Escultor,197,Bastoncito Feho x3,Cuero cabelludo de Klim ,3
+1824,Escultor,197,Bastoncito Feho x3,Lana de Sylargh ,9
+1825,Escultor,197,Bastoncito Feho x3,Uña de Bworker ,9
+1826,Escultor,197,Bastoncito Feho x3,Concentrado de selva ,3
+1827,Escultor,197,Bastoncito Feho x3,Turmalina ,36
+1828,Escultor,197,Bastoncito Feho x3,Tuerca nueva ,3
+1829,Manitas,0,Llave de la cripta de Chadalid x9,Reliquia de Incarnam ,27
+1830,Manitas,0,Llave de la cripta de Chadalid x9,Cenizas Eternas ,45
+1831,Manitas,5,Fulminadora de fresno x31,Madera de fresno ,620
+1832,Manitas,5,Fulminadora de fresno x31,Caracola marina ,310
+1833,Manitas,15,Fulminadora de Mob Lasponja x11,Esencia de Mob Lasponja ,11
+1834,Manitas,15,Fulminadora de Mob Lasponja x11,Graines de Scorbuto ,11
+1835,Manitas,15,Fulminadora de Mob Lasponja x11,Cuero de puerkazo ,22
+1836,Manitas,15,Fulminadora de Mob Lasponja x11,Hoja de pekekoko ,22
+1837,Manitas,15,Fulminadora de Mob Lasponja x11,Tornillo de wabbit ,11
+1838,Manitas,15,Abrevadero de girasol hambriento x10,Esencia de Girasol Hambriento ,10
+1839,Manitas,15,Abrevadero de girasol hambriento x10,Aletas de competición ,20
+1840,Manitas,15,Abrevadero de girasol hambriento x10,Sello real falso ,20
+1841,Manitas,15,Abrevadero de girasol hambriento x10,Cacho de blop índigo ,10
+1842,Manitas,15,Abrevadero de girasol hambriento x10,Escama de dragoss arcilloso ,10
+1843,Manitas,25,Aporreadora de Jalató Real x9,Esencia de Jalató Real ,9
+1844,Manitas,25,Aporreadora de Jalató Real x9,Bisagra rota ,18
+1845,Manitas,25,Aporreadora de Jalató Real x9,Caparazón amarillo ,18
+1846,Manitas,25,Aporreadora de Jalató Real x9,Cola de escordión bleu ,9
+1847,Manitas,25,Aporreadora de Jalató Real x9,Pluma de bebedor ,9
+1848,Manitas,25,Aporreadora de Chadalid x10,Esencia de Chadalid ,10
+1849,Manitas,25,Aporreadora de Chadalid x10,Garra de robionicle ,20
+1850,Manitas,25,Aporreadora de Chadalid x10,Caparazón rojo ,20
+1851,Manitas,25,Aporreadora de Chadalid x10,Ojo de yenaparda ,10
+1852,Manitas,25,Aporreadora de Chadalid x10,Pluma de cuerbok domesticado ,10
+1853,Manitas,35,Abrevadero de Blatarata x1,Esencia de Blatarata ,1
+1854,Manitas,35,Abrevadero de Blatarata x1,Fluido glacial ,2
+1855,Manitas,35,Abrevadero de Blatarata x1,Tatuaje de chico malo ,2
+1856,Manitas,35,Abrevadero de Blatarata x1,Cacho de blop reineta ,1
+1857,Manitas,35,Abrevadero de Blatarata x1,Piel de dragnarok ,1
+1858,Manitas,35,Pesebre de Batofu x1,Esencia de Batofu ,1
+1859,Manitas,35,Pesebre de Batofu x1,Pelos de la barba de bwork mago ,2
+1860,Manitas,35,Pesebre de Batofu x1,Laminilla de champo marrón ,2
+1861,Manitas,35,Pesebre de Batofu x1,Tejido de rata kekomepoko ,1
+1862,Manitas,35,Pesebre de Batofu x1,Oreja de medibwork ,1
+1863,Manitas,35,Acariciador de Boostacho x2,Esencia de Boostacho ,2
+1864,Manitas,35,Acariciador de Boostacho x2,Papel carbón ,4
+1865,Manitas,35,Acariciador de Boostacho x2,Colmillo de jabalí ,4
+1866,Manitas,35,Acariciador de Boostacho x2,Glándula de arak-hai ,2
+1867,Manitas,35,Acariciador de Boostacho x2,Ratón verde ,2
+1868,Manitas,35,Dragonalgas de Escarajefe Dorado x2,Esencia del Escarajefe Dorado ,2
+1869,Manitas,35,Dragonalgas de Escarajefe Dorado x2,Bigotes de pekewabbit ,4
+1870,Manitas,35,Dragonalgas de Escarajefe Dorado x2,Bulbo de malibut ,4
+1871,Manitas,35,Dragonalgas de Escarajefe Dorado x2,Pelo de vetorano ,2
+1872,Manitas,35,Dragonalgas de Escarajefe Dorado x2,Brote de piroliena ,2
+1873,Manitas,40,Llave de la Akademia de los Goblins x33,Catalejo de gobletrotter ,66
+1874,Manitas,40,Llave de la Akademia de los Goblins x33,Tambor de gobsalía ,66
+1875,Manitas,40,Llave de la Akademia de los Goblins x33,Gorro de gobalista ,66
+1876,Manitas,40,Llave de la Akademia de los Goblins x33,Pico de pica de gobobo ,66
+1877,Manitas,40,Llave de la Akademia de los Goblins x33,Carne industrial ,66
+1878,Manitas,40,Llave de la Akademia de los Goblins x33,Pez gatito ,66
+1879,Manitas,40,Llave de la Akademia de los Goblins x33,Trébol de 5 hojas ,66
+1880,Manitas,40,Llave de la Akademia de los Goblins x33,Avena ,66
+1881,Manitas,45,Acariciador de herreros x2,Esencia de herreros ,2
+1882,Manitas,45,Acariciador de herreros x2,Espejo dopeul ,4
+1883,Manitas,45,Acariciador de herreros x2,Avellana ,4
+1884,Manitas,45,Acariciador de herreros x2,Glándula de arak-hai ,2
+1885,Manitas,45,Acariciador de herreros x2,Piel de culebrón ,2
+1886,Manitas,45,Pesebre de Bworka x2,Esencia de Bworka ,2
+1887,Manitas,45,Pesebre de Bworka x2,Hombrera de bwork ,4
+1888,Manitas,45,Pesebre de Bworka x2,Laminilla de champo rojo ,4
+1889,Manitas,45,Pesebre de Bworka x2,Pinza de cangrabino ,2
+1890,Manitas,45,Pesebre de Bworka x2,Bota agujereada de megabwork ,2
+1891,Manitas,45,Dragonalgas del director Grunob x3,Esencia del director Grunob ,3
+1892,Manitas,45,Dragonalgas del director Grunob x3,Colmillo de goblin ,6
+1893,Manitas,45,Dragonalgas del director Grunob x3,Pico de pica de gobobo ,3
+1894,Manitas,45,Dragonalgas del director Grunob x3,Pico de kwak de hielo ,3
+1895,Manitas,45,Dragonalgas del director Grunob x3,Piel de larva dorada ,3
+1896,Manitas,50,Llave del Refugio Silvestre x29,Cuerno de bufalento ,58
+1897,Manitas,50,Llave del Refugio Silvestre x29,Garra de pesadoso ,58
+1898,Manitas,50,Llave del Refugio Silvestre x29,Pluma de thorondeoro ,58
+1899,Manitas,50,Llave del Refugio Silvestre x29,Piel de timongosta ,58
+1900,Manitas,50,Llave del Refugio Silvestre x29,Carne tierna ,58
+1901,Manitas,50,Llave del Refugio Silvestre x29,Pescado empanado ,58
+1902,Manitas,50,Llave del Refugio Silvestre x29,Trébol de 5 hojas ,87
+1903,Manitas,50,Llave del Refugio Silvestre x29,Avena ,87
+1904,Manitas,55,Pesebre del kaníbola Daldrrak x7,Esencia del Kaníbola Daldrrak ,7
+1905,Manitas,55,Pesebre del kaníbola Daldrrak x7,Pelos de la barba de bwork mago ,14
+1906,Manitas,55,Pesebre del kaníbola Daldrrak x7,Laminilla de champo rojo ,14
+1907,Manitas,55,Pesebre del kaníbola Daldrrak x7,Pluma de heladíkano ,7
+1908,Manitas,55,Pesebre del kaníbola Daldrrak x7,Piel de komanbwork ,7
+1909,Manitas,55,Pesebre del kaníbola Daldrrak x7,Cola de milubo ,7
+1910,Manitas,60,Acariciador de pluma de tofu maléfico x16,Pluma de tofu maléfico ,16
+1911,Manitas,60,Acariciador de pluma de tofu maléfico x16,Espejo dopeul ,32
+1912,Manitas,60,Acariciador de pluma de tofu maléfico x16,Defensa de Jabalí ,32
+1913,Manitas,60,Acariciador de pluma de tofu maléfico x16,Glándula de arak-hai ,16
+1914,Manitas,60,Acariciador de pluma de tofu maléfico x16,Ala de zumbobo ,16
+1915,Manitas,70,Llave de la Prueba de Dragenerys x31,Cáscara de dragohuevo arcilloso ,62
+1916,Manitas,70,Llave de la Prueba de Dragenerys x31,Cáscara de dragohuevo carbonoso ,62
+1917,Manitas,70,Llave de la Prueba de Dragenerys x31,Cáscara de dragohuevo pizarroso ,62
+1918,Manitas,70,Llave de la Prueba de Dragenerys x31,Cáscara de dragohuevo calizo ,62
+1919,Manitas,70,Llave de la Prueba de Dragenerys x31,Carne rancia ,62
+1920,Manitas,70,Llave de la Prueba de Dragenerys x31,Sardina brillante ,62
+1921,Manitas,70,Llave de la Prueba de Dragenerys x31,Menta salvaje ,93
+1922,Manitas,70,Llave de la Prueba de Dragenerys x31,Lúpulo ,93
+1923,Manitas,75,Dragonalgas de Gurlo el Terrible x7,Esencia de Gurlo el Terrible ,7
+1924,Manitas,75,Dragonalgas de Gurlo el Terrible x7,Pañuelo de black wabbit esqueleto ,41
+1925,Manitas,75,Dragonalgas de Gurlo el Terrible x7,Coxis de coralador ,14
+1926,Manitas,75,Dragonalgas de Gurlo el Terrible x7,Seta ,7
+1927,Manitas,75,Dragonalgas de Gurlo el Terrible x7,Rueda de pequeciclo ,7
+1928,Manitas,75,Dragonalgas de Gurlo el Terrible x7,Pelos de koalak coco ,7
+1929,Manitas,80,Llave del Cementerio de los Mastodontes x29,Escamas de uróbolo ,58
+1930,Manitas,80,Llave del Cementerio de los Mastodontes x29,Cola de escordión bleu ,58
+1931,Manitas,80,Llave del Cementerio de los Mastodontes x29,Cola de fénex ,58
+1932,Manitas,80,Llave del Cementerio de los Mastodontes x29,Ojo de yenaparda ,58
+1933,Manitas,80,Llave del Cementerio de los Mastodontes x29,Carne sanguinolenta ,58
+1934,Manitas,80,Llave del Cementerio de los Mastodontes x29,Lucio ,58
+1935,Manitas,80,Llave del Cementerio de los Mastodontes x29,Orquídea freyesca ,58
+1936,Manitas,80,Llave del Cementerio de los Mastodontes x29,Lino ,58
+1937,Manitas,85,Acariciador de Le Chuko,Esencia de Le Chuko ,6
+1938,Manitas,85,Acariciador de Le Chuko,Papel carbón ,12
+1939,Manitas,85,Acariciador de Le Chuko,Avellana ,12
+1940,Manitas,85,Acariciador de Le Chuko,Glándula de arak-hai ,6
+1941,Manitas,85,Acariciador de Le Chuko,Piel de culebrón ,6
+1942,Manitas,85,Acariciador de Le Chuko,Pluma de dodostrogodo ,6
+1943,Manitas,90,Clef du Domaine Ancestrale x31,Raíz de abráknido oscuro ,62
+1944,Manitas,90,Clef du Domaine Ancestrale x31,Raíz de abráknido venerable ,62
+1945,Manitas,90,Clef du Domaine Ancestrale x31,Corteza de abrakno oscuro ,62
+1946,Manitas,90,Clef du Domaine Ancestrale x31,Carne podrida ,62
+1947,Manitas,90,Clef du Domaine Ancestrale x31,Kralamar ,62
+1948,Manitas,90,Clef du Domaine Ancestrale x31,Orquídea freyesca ,93
+1949,Manitas,90,Clef du Domaine Ancestrale x31,Lino ,93
+1950,Manitas,95,Abrevadero de Moon x7,Esencia de Moon ,7
+1951,Manitas,95,Abrevadero de Moon x7,Bronceador ,14
+1952,Manitas,95,Abrevadero de Moon x7,Semilla de la discordia ,14
+1953,Manitas,95,Abrevadero de Moon x7,Cacho de blop índigo ,7
+1954,Manitas,95,Abrevadero de Moon x7,Piel de dragosa ,7
+1955,Manitas,95,Abrevadero de Moon x7,Pluma de tofudriza ,7
+1956,Manitas,100,Acariciador de pluma de trasero de kido x73,Pluma de trasero de kido ,73
+1957,Manitas,100,Acariciador de pluma de trasero de kido x73,Espejo dopeul ,146
+1958,Manitas,100,Acariciador de pluma de trasero de kido x73,Pincho de prespic ,146
+1959,Manitas,100,Acariciador de pluma de trasero de kido x73,Glándula de arak-hai ,73
+1960,Manitas,100,Acariciador de pluma de trasero de kido x73,Diente de larva campestre ,73
+1961,Manitas,100,Acariciador de pluma de trasero de kido x73,Kosakepega muerto ,73
+1962,Manitas,100,Acariciador de pluma de trasero de kido x73,Pergamino de cactana ,73
+1963,Manitas,125,Pesebre de la Dama del Agua x3,Esencia de Nagate ,3
+1964,Manitas,125,Pesebre de la Dama del Agua x3,Hombrera de bwork ,6
+1965,Manitas,125,Pesebre de la Dama del Agua x3,Laminilla de champo verde ,6
+1966,Manitas,125,Pesebre de la Dama del Agua x3,Tejido de rata kekomepoko ,3
+1967,Manitas,125,Pesebre de la Dama del Agua x3,Tejido púrpura ,3
+1968,Manitas,125,Pesebre de la Dama del Agua x3,Canino de abuelubo ,3
+1969,Manitas,125,Pesebre de la Dama del Agua x3,Cloaca de pohoyo ,3
+1970,Manitas,125,Dragonalgas de Thor Pestruz x3,Esencia de Thor Pestruz ,3
+1971,Manitas,125,Dragonalgas de Thor Pestruz x3,Pañuelo de black wabbit esqueleto ,6
+1972,Manitas,125,Dragonalgas de Thor Pestruz x3,Bulbo de kuraçao ,6
+1973,Manitas,125,Dragonalgas de Thor Pestruz x3,Pelo de vetorano ,3
+1974,Manitas,125,Dragonalgas de Thor Pestruz x3,Bomba de orondo ,3
+1975,Manitas,125,Dragonalgas de Thor Pestruz x3,Tela de Dok Alako ,3
+1976,Manitas,125,Dragonalgas de Thor Pestruz x3,Tejido de emobalí ,3
+1977,Manitas,130,Ganzúa x31,Gancho oxidado ,31
+1978,Manitas,130,Ganzúa x31,Seta ,62
+1979,Manitas,130,Ganzúa x31,Cuero de miserata strubiense ,93
+1980,Manitas,130,Ganzúa x31,Colmillo vampiresco ,31
+1981,Manitas,130,Ganzúa x31,Pelos de arakna enferma ,93
+1982,Manitas,135,Pesebre de Shihan y Hanshi x6,Esencia de Shihan y Hanshi ,6
+1983,Manitas,135,Pesebre de Shihan y Hanshi x6,Pelos de la barba de bwork mago ,12
+1984,Manitas,135,Pesebre de Shihan y Hanshi x6,Laminilla de champo verde ,12
+1985,Manitas,135,Pesebre de Shihan y Hanshi x6,Pelo de miaumiaumialvaje ,6
+1986,Manitas,135,Pesebre de Shihan y Hanshi x6,Oreja de medibwork ,6
+1987,Manitas,135,Pesebre de Shihan y Hanshi x6,Ojo de cerdolubo ,6
+1988,Manitas,135,Pesebre de Shihan y Hanshi x6,Trasero de tufo aéreo ,6
+1989,Manitas,140,Acariciador de pluma del último pohoyo x71,Mandíbula de Rib ,71
+1990,Manitas,140,Acariciador de pluma del último pohoyo x71,Papel carbón ,142
+1991,Manitas,140,Acariciador de pluma del último pohoyo x71,Pincho de prespic ,142
+1992,Manitas,140,Acariciador de pluma del último pohoyo x71,Glándula de arak-hai ,71
+1993,Manitas,140,Acariciador de pluma del último pohoyo x71,Diente de larva campestre ,71
+1994,Manitas,140,Acariciador de pluma del último pohoyo x71,Flor de zampávoro ,71
+1995,Manitas,165,Pesebre de Tengu Gélifux x6,Esencia de Tengu Gélifux ,6
+1996,Manitas,165,Pesebre de Tengu Gélifux x6,Ojo de cerdolubo ,6
+1997,Manitas,165,Pesebre de Tengu Gélifux x6,Oreja de medibwork ,6
+1998,Manitas,165,Pesebre de Tengu Gélifux x6,Coraza de tamburái ,6
+1999,Manitas,165,Pesebre de Tengu Gélifux x6,Relleno de mopet ,6
+2000,Manitas,165,Pesebre de Tengu Gélifux x6,Pluma de heladíkano ,6
+2001,Manitas,165,Pesebre de Tengu Gélifux x6,Hombrera de bwork ,12
+2002,Manitas,165,Pesebre de Tengu Gélifux x6,Laminilla de champo rojo ,12
+2003,Manitas,170,Llave de la Guarida Gélifux x31,Lana de maho gélifux ,62
+2004,Manitas,170,Llave de la Guarida Gélifux x31,Oreja de soryo gélifux ,62
+2005,Manitas,170,Llave de la Guarida Gélifux x31,Lana de yokai gélifux ,62
+2006,Manitas,170,Llave de la Guarida Gélifux x31,Tibia de yomi gélifux ,62
+2007,Manitas,170,Llave de la Guarida Gélifux x31,Carne magra ,62
+2008,Manitas,170,Llave de la Guarida Gélifux x31,Bacaladilla ,62
+2009,Manitas,170,Llave de la Guarida Gélifux x31,Belladona ,93
+2010,Manitas,170,Llave de la Guarida Gélifux x31,Maíz ,93
+2011,Manitas,175,Aporreadora de Toxoliat x6,Esencia de Toxoliat ,6
+2012,Manitas,175,Aporreadora de Toxoliat x6,Pepino ,6
+2013,Manitas,175,Aporreadora de Toxoliat x6,Pelo de zorrowapo ,6
+2014,Manitas,175,Aporreadora de Toxoliat x6,Cáliz de diente pe-león ,6
+2015,Manitas,175,Aporreadora de Toxoliat x6,Máscara de la vivacidad ,6
+2016,Manitas,175,Aporreadora de Toxoliat x6,Cola de escordión bleu ,6
+2017,Manitas,175,Aporreadora de Toxoliat x6,Caparazón amarillo ,12
+2018,Manitas,175,Aporreadora de Toxoliat x6,Garra de robionicle ,12
+2019,Manitas,180,Acariciador de pluma de serpipluma x47,Pluma de serpipluma ,47
+2020,Manitas,180,Acariciador de pluma de serpipluma x47,Espejo dopeul ,94
+2021,Manitas,180,Acariciador de pluma de serpipluma x47,Pelos de minilubo ,94
+2022,Manitas,180,Acariciador de pluma de serpipluma x47,Glándula de arak-hai ,47
+2023,Manitas,180,Acariciador de pluma de serpipluma x47,Diente de larva campestre ,47
+2024,Manitas,180,Acariciador de pluma de serpipluma x47,Pluma de dodostrogodo ,47
+2025,Manitas,180,Acariciador de pluma de serpipluma x47,Pergamino de cactana ,47
+2026,Manitas,180,Acariciador de pluma de serpipluma x47,Oreja de golosorubik ,47
